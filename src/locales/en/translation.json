@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "home": "Home",
+    "ourStory": "Our Story",
+    "experiences": "Experiences",
+    "gallery": "Gallery",
+    "events": "Events",
+    "shop": "Shop",
+    "contact": "Contact / Book"
+  },
+  "home": {
+    "heroTitlePart1": "Sawubona.",
+    "heroTitlePart2": "Welcome to Mzamo Village",
+    "heroSubtitle": "A living Zulu kraal – experience heritage, unity & joy",
+    "bookButton": "Book Your Tour",
+    "exploreButton": "Explore Experiences",
+    "introTitle": "Not a museum — a home.",
+    "introText": "Step into our traditional kraal. Learn beadwork with gogo, dance with warriors, hear stories around the fire, and taste authentic Zulu hospitality.",
+    "featuredTitle": "Featured Experiences",
+    "featured": {
+      "culturalTour": {
+        "title": "isiZulu Cultural Tours",
+        "desc": "Experience authentic Zulu heritage through beadwork, dance, spear crafting, and traditional cooking — all in one immersive journey.",
+        "items": {
+          "beadwork": "Beadwork with Gogo",
+          "dance": "Zulu Dance & Music",
+          "spear": "Spear & Shield Crafting",
+          "cooking": "Traditional Cooking Experience"
+        },
+        "cta": "Book Your Cultural Tour"
+      },
+      "ceremonies": {
+        "title": "Traditional Ceremonies & Weddings",
+        "desc": "Celebrate love and life with authentic Zulu rituals, music, and dance."
+      },
+      "workshops": {
+        "title": "School Workshops & Community",
+        "desc": "Interactive cultural education programs for schools and groups."
+      },
+      "accommodation": {
+        "title": "Traditional isiZulu Hut Accommodation",
+        "desc": "Stay overnight in an authentic Zulu homestead and wake up to village life."
+      }
+    }
+  },
+  "ourStory": {
+    "heroTitle": "Our Story",
+    "heroSubtitle": "A journey rooted in isiZulu heritage, community, and rhythm.",
+    "myStoryTitle": "My Story",
+    "myStoryP1": "I may not claim to be a perfect man, but I strive to live with good morals and ethics. My name is Mzamo, and I am a proud citizen of the Engonyameni area in Hluhluwe, under Chief Mdletshe.",
+    "myStoryP2": "I created my village because I love my culture and want to preserve our traditions for future generations. What began as a passion has grown into a community initiative that people appreciate and support. Today, it has become a business, but at its heart it remains a way to help my community and keep our heritage alive.",
+    "thankYou": "When I say 'Thank you,' I mean siyabonga — gratitude from the heart.",
+    "livingKraalTitle": "A Living Kraal",
+    "livingKraalP": "Mzamo Village Homestead is not a museum — it is a living, breathing Zulu kraal. Here, traditions are not displayed behind glass but shared through experience. From beadwork and dance to storytelling around the fire, every moment is an invitation into authentic isiZulu life.",
+    "missionTitle": "Our Mission",
+    "missionP": "We aim to preserve and celebrate Zulu heritage by opening our homestead to visitors from around the world. Our mission is to foster unity, joy, and understanding through cultural exchange.",
+    "communityTitle": "Community & Heritage",
+    "communityP": "Every experience at Mzamo Village is led by community members — elders, warriors, and artisans — ensuring that the heritage is passed down authentically and respectfully."
+  },
+  "experiences": {
+    "pageTitle": "Our Experiences",
+    "cards": {
+      "beadwork": { "title": "Beadwork with Gogo", "desc": "Learn traditional Zulu bead patterns and create your own bracelet." },
+      "dance": { "title": "Zulu Dance & Music", "desc": "Join the warriors for energetic traditional dancing." },
+      "spear": { "title": "Spear & Shield Crafting", "desc": "Discover warrior arts and symbols of strength." },
+      "cooking": { "title": "Traditional Cooking", "desc": "Cook authentic Zulu recipes over an open fire with our community." },
+      "accommodation": { "title": "Hut Accommodation", "desc": "Sleep in a traditional isiZulu hut and wake to village sounds." }
+    }
+  },
+  "gallery": {
+    "pageTitle": "Gallery",
+    "imageAlt": "Mzamo image {{index}}"
+  },
+  "events": {
+    "pageTitle": "Events & Ceremonies",
+    "intro": "Traditional weddings, school workshops, storytelling nights and more. Contact us to book your private event.",
+    "cards": {
+      "weddings": { "title": "Traditional Weddings", "desc": "Celebrate love in authentic Zulu style with music, dance, and rituals." },
+      "workshops": { "title": "School Workshops", "desc": "Interactive cultural lessons for students — beadwork, dance, and storytelling." },
+      "storytelling": { "title": "Storytelling Nights", "desc": "Gather around the fire for ancient tales passed down through generations." },
+      "ceremonies": { "title": "Private Ceremonies", "desc": "Book exclusive events tailored to your group or occasion." }
+    }
+  },
+  "shop": {
+    "pageTitle": "Shop",
+    "intro": "Authentic Zulu crafts and attire — handmade with heritage.",
+    "addToCart": "Add to Cart",
+    "products": {
+      "necklace": { "title": "Beaded Necklace", "price": "R250" },
+      "shield": { "title": "Zulu Shield", "price": "R800" },
+      "basket": { "title": "Handmade Basket", "price": "R300" },
+      "attire": { "title": "Traditional Attire", "price": "R1200" }
+    }
+  },
+  "contact": {
+    "pageTitle": "Contact Us",
+    "intro": "Get in touch to book your experience, ask questions, or plan a private event.",
+    "formComingSoon": "Contact form coming soon. For now, please reach out via WhatsApp or phone.",
+    "contactTitle": "Reach us directly",
+    "address": "📍 Hluhluwe, KwaZulu-Natal",
+    "whatsapp": "💬 WhatsApp: +27 66 584 5674",
+    "note": "🌍 Experience authentic isiZulu heritage with us."
+  },
+  "footer": {
+    "title": "Mzamo Village Homestead",
+    "tagline": "Authentic isiZulu experiences in Hluhluwe, KwaZulu-Natal.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "copyRight": "© {{year}} Mzamo Village Homestead. All rights reserved."
+  }
+}

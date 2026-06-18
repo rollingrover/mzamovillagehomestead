@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "Ikhaya",
+    "ourStory": "Indaba Yethu",
+    "experiences": "Okuhlangenwe Nakho",
+    "gallery": "Igalari",
+    "events": "Imicimbi",
+    "shop": "Isitolo",
+    "contact": "Xhumana / Bhuka"
+  },
+  "home": {
+    "heroTitlePart1": "Sawubona.",
+    "heroTitlePart2": "Siyakwamukela eMzamo Village",
+    "heroSubtitle": "I-kraal yaseZulu ephilayo – zama ifa, ubunye kanye nenjabulo",
+    "bookButton": "Bhuka Uhambo Lwakho",
+    "exploreButton": "Hlola Okuhlangenwe Nakho",
+    "introTitle": "Akusilo imiuziyamu — ikhaya.",
+    "introText": "Ngena e-kraal lethu. Funda ukushona amachwe negogo, jika namabutho, lalela izindaba eduze komlilo, unamaselo okwamukela kwesintu samaZulu.",
+    "featuredTitle": "Okuhlangenwe Nakho Okukhethiwe",
+    "featured": {
+      "culturalTour": {
+        "title": "Amahambо Amasiko AmaZulu",
+        "desc": "Hlangana nomlando wamaSiko amaZulu ngokushona amachwe, ukujika, ukwenza izikhali, nokupheka kwesintu — konke kunohambо olulodwa olujulile.",
+        "items": {
+          "beadwork": "Ukushona Amachwe noGogo",
+          "dance": "Ingoma Kanye Nomculo",
+          "spear": "Ukwenza Umkhonto Neshoba",
+          "cooking": "Ukupheka Kwesintu"
+        },
+        "cta": "Bhuka Uhambo Lwakho Lwamasiko"
+      },
+      "ceremonies": {
+        "title": "Imicimbi Yesikhathi Nemishado",
+        "desc": "Gcinwa uthando nokuphila ngezinkambiso zesiZulu, umculo, nokujika."
+      },
+      "workshops": {
+        "title": "Amaklasi Ezikole Nomphakathi",
+        "desc": "Izifundo zamasiko ezithakazelisayo zazikoleni nanamaqembu."
+      },
+      "accommodation": {
+        "title": "Iindlu Zesintu ZesiZulu",
+        "desc": "Lala ebusuku endlini yesintu yamaZulu uvuke uphila impilo yomphakathi."
+      }
+    }
+  },
+  "ourStory": {
+    "heroTitle": "Indaba Yethu",
+    "heroSubtitle": "Uhambo olugxilwe esikhundleni sesiZulu, umphakathi, kanye nonqangi.",
+    "myStoryTitle": "Indaba Yami",
+    "myStoryP1": "Angikwazi ukuthi ngiyindoda ephelele, kodwa ngizama ukuphila ngezimilo ezinhle. Igama lami ngu-Mzamo, futhi ngiyisakhamuzi esikhuthele sendawo yase-Engonyameni eHluhluwe, ngaphansi kweNkosi uMdletshe.",
+    "myStoryP2": "Ngidale isigodi sami ngoba ngithanda amasiko ami futhi ngifuna ukugcina izikhomba zethu zesizukulwane esizayo. Okwaqala njengomfutho kukhule kwaba yinhlangano yomphakathi abantu abayazisa futhi beyisekele.",
+    "thankYou": "Uma ngithi 'Ngiyabonga', ngisho siyabonga — ukubonga okuvela enhliziyweni.",
+    "livingKraalTitle": "I-Kraal Ephilayo",
+    "livingKraalP": "I-Mzamo Village Homestead akusilo imiuziyamu — i-kraal yamaZulu ephilayo. Lapha, amasiko awaboniswa ngeglasi kodwa ayabelwana ngokuhlangenwe nakho. Kusukela ekushoneni amachwe nasekujikeni kuya ezindabeni ezilandiswa ngomlilo, isikhathi ngasinye sinxusa ukungena empilweni yangempela yesiZulu.",
+    "missionTitle": "Inhloso Yethu",
+    "missionP": "Sihlose ukugcina nokugubha ifa lamaZulu ngokuvula ikhaya lethu izivakashi emhlabeni wonke. Inhloso yethu ukukhuthaza ubunye, injabulo, nokuzwana ngokushintshanisa amasiko.",
+    "communityTitle": "Umphakathi Nefa",
+    "communityP": "Yonke into ehlangenwe nayo e-Mzamo Village iholwa amalungu omphakathi — amadlozi, amabutho, nezingcweti — iqinisekisa ukuthi ifa liyenziwa ngeqiniso nokuhlonipha."
+  },
+  "experiences": {
+    "pageTitle": "Okuhlangenwe Nakho Kwethu",
+    "cards": {
+      "beadwork": { "title": "Ukushona Amachwe noGogo", "desc": "Funda izinhlelo zamaZulu zamachwe wenza isibopho sakho." },
+      "dance": { "title": "Ingoma Kanye Nomculo", "desc": "Joyina amabutho ngokujika kwesintu okunamandla." },
+      "spear": { "title": "Ukwenza Umkhonto Neshoba", "desc": "Thola ubuciko bamabutho nezimpawu zamandla." },
+      "cooking": { "title": "Ukupheka Kwesintu", "desc": "Pheka izindlela zesiZulu ngomlilo nevulandlela yomphakathi." },
+      "accommodation": { "title": "Ukulala Endlini Yesintu", "desc": "Lala ebusuku endlini yesintu yamaZulu." }
+    }
+  },
+  "gallery": { "pageTitle": "Igalari", "imageAlt": "Isithombe sakwa-Mzamo {{index}}" },
+  "events": {
+    "pageTitle": "Imicimbi Nezinqubo",
+    "intro": "Imishado yesikhathi, amaklasi ezikole, izindaba zobusuku, nokunye. Xhumana nathi ukubhuka umcimbi wakho ozimele.",
+    "cards": {
+      "weddings": { "title": "Imishado Yesikhathi", "desc": "Gcinwa uthando ngendlela yesintu samaZulu ngomculo, ukujika, nezinkambiso." },
+      "workshops": { "title": "Amaklasi Ezikole", "desc": "Izifundo zamasiko ezithakazelisayo zamafundi — amachwe, ukujika, nezindaba." },
+      "storytelling": { "title": "Izindaba Zobusuku", "desc": "Buthelanani eduze komlilo uzwe izindaba zamandulo ezidale isizukulwane ngesizukulwane." },
+      "ceremonies": { "title": "Izinqubo Ezizimele", "desc": "Bhuka imicimbi ekhethekile ehambisana neqembu lenu noma umcimbi." }
+    }
+  },
+  "shop": {
+    "pageTitle": "Isitolo",
+    "intro": "Izinto zesintu zamaZulu nezingubo — ezenziwa ngesandla nefa.",
+    "addToCart": "Faka Ekalatini",
+    "products": {
+      "necklace": { "title": "Umgexo Wamachwe", "price": "R250" },
+      "shield": { "title": "Ihawu LamaZulu", "price": "R800" },
+      "basket": { "title": "Ubhasikidi Owenziwe Ngesandla", "price": "R300" },
+      "attire": { "title": "Isigqoko Sesikhathi", "price": "R1200" }
+    }
+  },
+  "contact": {
+    "pageTitle": "Xhumana Nathi",
+    "intro": "Xhumana nathi ukubhuka, ukubuza imibuzo, noma ukuhlela umcimbi owodwa.",
+    "formComingSoon": "Ifomu lokuxhumana lizofika maduze. Ngalesi sikhathi, sicela uye kuWhatsApp noma ucingo.",
+    "contactTitle": "Sithinte Ngqo",
+    "address": "📍 Hluhluwe, KwaZulu-Natal",
+    "whatsapp": "💬 WhatsApp: +27 66 584 5674",
+    "note": "🌍 Hlangana nomlando wangempela wesiZulu nathi."
+  },
+  "footer": {
+    "title": "I-Mzamo Village Homestead",
+    "tagline": "Okuhlangenwe nangempela nokwesiZulu eHluhluwe, KwaZulu-Natal.",
+    "quickLinks": "Izixhumanisi Ezisheshayo",
+    "contact": "Xhumana",
+    "copyRight": "© {{year}} I-Mzamo Village Homestead. Wonke amalungelo agciniwe."
+  }
+}

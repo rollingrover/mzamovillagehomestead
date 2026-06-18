@@ -1,0 +1,28 @@
+/* Reset any Vite/React default styles that interfere */
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+/* Override any .hero color that makes text invisible */
+.hero {
+  color: inherit !important;
+}
+
+/* Ensure global text is never white on light backgrounds */
+body {
+  color: #3D2B1F;
+  background-color: #FDF8F0;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: #e4ba78; }
+::-webkit-scrollbar-thumb { background: #C28A3E; border-radius: 4px; }
