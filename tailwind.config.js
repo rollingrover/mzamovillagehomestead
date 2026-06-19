@@ -11,6 +11,8 @@ export default {
         'zulu-brown-dark': '#2C1810',
         'zulu-brown-mid': '#7A5235',
         'zulu-ochre': '#C28A3E',
+        'zulu-ochre-text': '#8A5A1E',
+        'zulu-ochre-light': '#D9A65C',
         'zulu-green': '#4A6B3C',
         'zulu-black': '#1E1E1E',
         'zulu-cream': '#FDF8F0',

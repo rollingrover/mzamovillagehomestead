@@ -15,10 +15,7 @@
         "title": "Tours Culturais isiZulu",
         "desc": "Viva a herança zulu autêntica através de contas, dança, fabricação de lanças e culinária tradicional — tudo em uma jornada imersiva.",
         "items": {
-          "beadwork": "Artesanato de Contas com a Vovó",
-          "dance": "Dança e Música Zulu",
-          "spear": "Fabricação de Lança e Escudo",
-          "cooking": "Experiência de Culinária Tradicional"
+          "beadwork": "Artesanato de Contas com a Vovó", "dance": "Dança e Música Zulu", "spear": "Fabricação de Lança e Escudo", "cooking": "Experiência de Culinária Tradicional"
         },
         "cta": "Reserve Seu Tour Cultural"
       },
@@ -40,6 +37,21 @@
   },
   "experiences": {
     "pageTitle": "Nossas Experiências",
+    "tour": {
+      "title": "O Tour Cultural isiZulu",
+      "desc": "Uma jornada unificada na vida zulu autêntica — quatro atividades práticas entrelaçadas em uma única experiência cultural imersiva na Mzamo Village.",
+      "activities": {
+        "workshops": { "title": "Oficinas Escolares", "desc": "Educação cultural interativa para grupos escolares e estudantes." },
+        "homesteadStay": { "title": "Estadia na Fazenda", "desc": "Passe tempo na aldeia como parte da vida cotidiana da fazenda." },
+        "hutStay": { "title": "Estadia em Cabana Tradicional isiZulu", "desc": "Passe a noite em uma autêntica cabana zulu tradicional." },
+        "ceremonies": { "title": "Cerimônias Tradicionais", "desc": "Participe de autênticas cerimônias e rituais culturais zulus." }
+      },
+      "cta": "Reservar o Tour Cultural"
+    },
+    "craftsmanship": {
+      "title": "Feito à Mão pela Nossa Comunidade",
+      "desc": "Cada artesanato, conta e entalhe em nossa loja é feito à mão por Mzamo e os residentes da Mzamo Village — artesanato autêntico que apoia diretamente nossa comunidade."
+    },
     "cards": {
       "beadwork": { "title": "Artesanato de Contas com a Vovó", "desc": "Aprenda os padrões tradicionais zulus de contas e crie sua própria pulseira." },
       "dance": { "title": "Dança e Música Zulu", "desc": "Junte-se aos guerreiros para uma dança tradicional cheia de energia." },
@@ -62,10 +74,14 @@
   "shop": {
     "pageTitle": "Loja", "intro": "Artesanato e trajes zulus autênticos — feitos à mão com herança.", "addToCart": "Adicionar ao Carrinho",
     "products": {
-      "necklace": { "title": "Colar de Contas", "price": "R250" },
-      "shield": { "title": "Escudo Zulu", "price": "R800" },
-      "basket": { "title": "Cesto Artesanal", "price": "R300" },
-      "attire": { "title": "Traje Tradicional", "price": "R1200" }
+      "necklace": { "title": "Colar de Contas", "price": "R400" },
+      "smlshield": { "title": "Escudo Zulu (Pequeno)", "price": "R450" },
+      "buff": { "title": "Entalhe de Búfalo", "price": "R350" },
+      "rhino": { "title": "Entalhe de Rinoceronte", "price": "R350" },
+      "croc": { "title": "Entalhe de Crocodilo", "price": "R200" },
+      "medshield": { "title": "Escudo Zulu (Médio)", "price": "R550" },
+      "gwalagwala": { "title": "Entalhe de Pássaro (Turaco)", "price": "R150" },
+      "servingtray": { "title": "Bandeja de Servir", "price": "R600" }
     }
   },
   "contact": {

@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "Home", "ourStory": "Ons Verhaal", "experiences": "Ervaringen",
+    "gallery": "Galerij", "events": "Evenementen", "shop": "Winkel", "contact": "Contact / Boeken"
+  },
+  "home": {
+    "heroTitlePart1": "Sawubona.", "heroTitlePart2": "Welkom bij Mzamo Village",
+    "heroSubtitle": "Een levend Zoeloe-kraal – beleef erfgoed, eenheid en vreugde",
+    "bookButton": "Boek je tour", "exploreButton": "Ontdek ervaringen",
+    "introTitle": "Geen museum — een thuis.",
+    "introText": "Stap binnen in ons traditionele kraal. Leer kralenwerk met gogo, dans met krijgers, luister naar verhalen rond het vuur en proef authentieke Zoeloe-gastvrijheid.",
+    "featuredTitle": "Uitgelichte ervaringen",
+    "featured": {
+      "culturalTour": {
+        "title": "isiZulu Culturele Tours",
+        "desc": "Beleef authentiek Zoeloe-erfgoed door kralenwerk, dans, speervervaardiging en traditioneel koken — allemaal in één meeslepende reis.",
+        "items": {
+          "beadwork": "Kralenwerk met Gogo",
+          "dance": "Zoeloe dans en muziek",
+          "spear": "Speer- en schildvervaardiging",
+          "cooking": "Traditionele kookervaring"
+        },
+        "cta": "Boek je culturele tour"
+      },
+      "ceremonies": { "title": "Traditionele ceremonies en bruiloften", "desc": "Vier liefde en leven met authentieke Zoeloe-rituelen, muziek en dans." },
+      "workshops": { "title": "Schoolworkshops en gemeenschap", "desc": "Interactieve culturele educatieprogramma's voor scholen en groepen." },
+      "accommodation": { "title": "Traditionele isiZulu hutaccommodatie", "desc": "Overnacht in een authentiek Zoeloe-erf en word wakker bij het dorpsleven." }
+    }
+  },
+  "ourStory": {
+    "heroTitle": "Ons Verhaal", "heroSubtitle": "Een reis geworteld in isiZulu-erfgoed, gemeenschap en ritme.",
+    "myStoryTitle": "Mijn Verhaal",
+    "myStoryP1": "Ik kan niet beweren een perfect mens te zijn, maar ik streef ernaar te leven met goede waarden en ethiek. Mijn naam is Mzamo, en ik ben een trotse burger van het Engonyameni-gebied in Hluhluwe, onder Chief Mdletshe.",
+    "myStoryP2": "Ik heb mijn dorp opgericht omdat ik van mijn cultuur houd en onze tradities wil behouden voor toekomstige generaties. Wat begon als een passie is uitgegroeid tot een gemeenschapsinitiatief dat mensen waarderen en steunen. Vandaag is het een bedrijf geworden, maar in de kern blijft het een manier om mijn gemeenschap te helpen en ons erfgoed levend te houden.",
+    "thankYou": "Als ik 'Dank je' zeg, bedoel ik siyabonga — dankbaarheid vanuit het hart.",
+    "livingKraalTitle": "Een Levend Kraal",
+    "livingKraalP": "Mzamo Village Homestead is geen museum — het is een levend, ademend Zoeloe-kraal. Hier worden tradities niet achter glas tentoongesteld, maar gedeeld door middel van ervaring. Van kralenwerk en dans tot verhalen vertellen rond het vuur, elk moment is een uitnodiging tot authentiek isiZulu-leven.",
+    "missionTitle": "Onze Missie", "missionP": "We streven ernaar het Zoeloe-erfgoed te behouden en te vieren door ons erf open te stellen voor bezoekers van over de hele wereld. Onze missie is het bevorderen van eenheid, vreugde en begrip door middel van culturele uitwisseling.",
+    "communityTitle": "Gemeenschap en Erfgoed", "communityP": "Elke ervaring bij Mzamo Village wordt geleid door gemeenschapsleden — ouderen, krijgers en ambachtslieden — om ervoor te zorgen dat het erfgoed authentiek en respectvol wordt doorgegeven."
+  },
+  "experiences": {
+    "pageTitle": "Onze Ervaringen",
+    "tour": {
+      "title": "De isiZulu Culturele Tour",
+      "desc": "Eén verenigde reis in authentiek Zoeloe-leven — vier praktische activiteiten verweven tot één meeslepende culturele ervaring bij Mzamo Village.",
+      "activities": {
+        "workshops": { "title": "Schoolworkshops", "desc": "Interactieve culturele educatie voor schoolgroepen en leerlingen." },
+        "homesteadStay": { "title": "Verblijf op het erf", "desc": "Breng tijd door in het dorp als onderdeel van het dagelijkse erfleven." },
+        "hutStay": { "title": "isiZulu Traditioneel Hutverblijf", "desc": "Overnacht in een authentieke traditionele Zoeloe-hut." },
+        "ceremonies": { "title": "Traditionele Ceremonies", "desc": "Neem deel aan echte Zoeloe culturele ceremonies en rituelen." }
+      },
+      "cta": "Boek de culturele tour"
+    },
+    "craftsmanship": {
+      "title": "Handgemaakt door onze gemeenschap",
+      "desc": "Elk curiosa, kraal en houtsnijwerk in onze winkel wordt met de hand gemaakt door Mzamo en de bewoners van Mzamo Village — authentiek vakmanschap dat onze gemeenschap direct ondersteunt."
+    },
+    "cards": {
+      "beadwork": { "title": "Kralenwerk met Gogo", "desc": "Leer traditionele Zoeloe-kraalpatronen en maak je eigen armband." },
+      "dance": { "title": "Zoeloe dans en muziek", "desc": "Sluit je aan bij de krijgers voor energieke traditionele dans." },
+      "spear": { "title": "Speer- en schildvervaardiging", "desc": "Ontdek krijgerskunsten en symbolen van kracht." },
+      "cooking": { "title": "Traditioneel Koken", "desc": "Kook authentieke Zoeloe-recepten op open vuur met onze gemeenschap." },
+      "accommodation": { "title": "Hutaccommodatie", "desc": "Slaap in een traditionele isiZulu-hut en word wakker bij dorpsgeluiden." }
+    }
+  },
+  "gallery": { "pageTitle": "Galerij", "imageAlt": "Mzamo afbeelding {{index}}" },
+  "events": {
+    "pageTitle": "Evenementen en Ceremonies",
+    "intro": "Traditionele bruiloften, schoolworkshops, verhalenvertelavonden en meer. Neem contact met ons op om je privé-evenement te boeken.",
+    "cards": {
+      "weddings": { "title": "Traditionele bruiloften", "desc": "Vier de liefde in authentieke Zoeloe-stijl met muziek, dans en rituelen." },
+      "workshops": { "title": "Schoolworkshops", "desc": "Interactieve culturele lessen voor studenten — kralenwerk, dans en verhalen." },
+      "storytelling": { "title": "Verhalenvertelavonden", "desc": "Verzamel rond het vuur voor oude verhalen die van generatie op generatie zijn doorgegeven." },
+      "ceremonies": { "title": "Privé-ceremonies", "desc": "Boek exclusieve evenementen op maat van jouw groep of gelegenheid." }
+    }
+  },
+  "shop": {
+    "pageTitle": "Winkel", "intro": "Authentiek Zoeloe-vakmanschap en kleding — met de hand gemaakt met erfgoed.", "addToCart": "In winkelwagen",
+    "products": {
+      "necklace": { "title": "Kralenketting", "price": "R400" },
+      "smlshield": { "title": "Zoeloe schild", "price": "R450" },
+      "buff": { "title": "Buffel houtsnijwerk", "price": "R350" },
+      "rhino": { "title": "Neushoorn houtsnijwerk", "price": "R350" },
+      "croc": { "title": "Krokodil houtsnijwerk", "price": "R200" },
+      "medshield": { "title": "Middelgroot Zoeloe schild", "price": "R550" },
+      "gwalagwala": { "title": "Vogel (Loerie) houtsnijwerk", "price": "R150" },
+      "servingtray": { "title": "Serveerblad", "price": "R600" }
+    }
+  },
+  "contact": {
+    "pageTitle": "Neem contact op", "intro": "Neem contact op om je ervaring te boeken, vragen te stellen of een privé-evenement te plannen.",
+    "formComingSoon": "Contactformulier komt binnenkort. Neem voorlopig contact op via WhatsApp of telefoon.",
+    "contactTitle": "Bereik ons direct",
+    "address": "📍 Hluhluwe, KwaZulu-Natal",
+    "whatsapp": "💬 WhatsApp: +27 66 584 5674",
+    "note": "🌍 Beleef authentiek isiZulu-erfgoed met ons."
+  },
+  "footer": {
+    "title": "Mzamo Village Homestead", "tagline": "Authentieke isiZulu-ervaringen in Hluhluwe, KwaZulu-Natal.",
+    "quickLinks": "Snelle links", "contact": "Contact",
+    "copyRight": "© {{year}} Mzamo Village Homestead. Alle rechten voorbehouden."
+  }
+}

@@ -59,6 +59,21 @@
   },
   "experiences": {
     "pageTitle": "Our Experiences",
+    "tour": {
+      "title": "The isiZulu Cultural Tour",
+      "desc": "One unified journey into authentic Zulu life — four hands-on activities woven into a single, immersive cultural experience at Mzamo Village.",
+      "activities": {
+        "workshops": { "title": "School Workshops", "desc": "Interactive cultural education for school groups and learners." },
+        "homesteadStay": { "title": "Homestead Stay", "desc": "Spend time living alongside the village as part of daily homestead life." },
+        "hutStay": { "title": "isiZulu Traditional Hut Stay", "desc": "Sleep overnight in an authentic traditional Zulu hut." },
+        "ceremonies": { "title": "Traditional Ceremonies", "desc": "Take part in genuine Zulu cultural ceremonies and rituals." }
+      },
+      "cta": "Book the Cultural Tour"
+    },
+    "craftsmanship": {
+      "title": "Handmade by Our Community",
+      "desc": "Every curio, bead, and carving in our shop is made by hand by Mzamo and the residents of Mzamo Village — authentic craftsmanship that supports our community directly."
+    },
     "cards": {
       "beadwork": { "title": "Beadwork with Gogo", "desc": "Learn traditional Zulu bead patterns and create your own bracelet." },
       "dance": { "title": "Zulu Dance & Music", "desc": "Join the warriors for energetic traditional dancing." },
@@ -86,10 +101,14 @@
     "intro": "Authentic Zulu crafts and attire — handmade with heritage.",
     "addToCart": "Add to Cart",
     "products": {
-      "necklace": { "title": "Beaded Necklace", "price": "R250" },
-      "shield": { "title": "Zulu Shield", "price": "R800" },
-      "basket": { "title": "Handmade Basket", "price": "R300" },
-      "attire": { "title": "Traditional Attire", "price": "R1200" }
+      "necklace": { "title": "Beaded Necklace ", "price": "R400" },
+      "smlshield": { "title": "Zulu Shield", "price": "R450" },
+      "buff": { "title": "Buffalo Carving", "price": "R350" },
+      "rhino": { "title": "Rhino Carving", "price": "R350" },
+      "croc": { "title": "Crocodile Carving", "price": "R200" },
+      "medshield": { "title": " Medium Zulu Shield", "price": "R550" },
+      "gwalagwala": { "title": "Bird(Loerie) Carving", "price": "R150" },
+      "servingtray": { "title": "Serving Tray", "price": "R600" }
     }
   },
   "contact": {

@@ -16,7 +16,7 @@ export default function Events() {
     <div style={{ backgroundColor: '#e4ba78' }}>
       <section className="bg-zulu-brown text-white py-20 text-center">
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}>
-          <span className="text-zulu-ochre text-sm font-semibold tracking-widest uppercase">Celebrate with us</span>
+          <span className="text-zulu-ochre-light text-sm font-semibold tracking-widest uppercase">Celebrate with us</span>
           <h1 className="text-5xl md:text-6xl font-bold mt-3 text-white">{t('events.pageTitle')}</h1>
           <p className="mt-5 text-white/80 text-lg max-w-2xl mx-auto">{t('events.intro')}</p>
         </motion.div>

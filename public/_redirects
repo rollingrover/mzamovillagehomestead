@@ -1,0 +1,4 @@
+# Each route already has a prerendered static index.html (see prerender.mjs).
+# This fallback only catches edge cases (query strings, unknown sub-paths)
+# so client-side React Router can still take over.
+/*    /index.html   200

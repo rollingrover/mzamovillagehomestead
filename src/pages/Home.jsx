@@ -7,7 +7,7 @@ import beadworkImg from '../assets/beadwork.jpg';
 import danceImg from '../assets/dance.jpg';
 import spearImg from '../assets/spear.jpg';
 import hutImg from '../assets/hut1.png';
-import cookingImg from '../assets/cooking.png';
+import cookingImg from '../assets/cooking.jpg';
 
 const fadeUp = { hidden: { opacity: 0, y: 30 }, visible: { opacity: 1, y: 0 } };
 
@@ -232,7 +232,7 @@ export default function Home() {
                   </div>
                   <h3 className="text-xl font-bold mb-3 text-zulu-brown-dark">{t(titleKey)}</h3>
                   <p className="text-zulu-text/80 leading-relaxed text-sm flex-1">{t(descKey)}</p>
-                  <div className="mt-5 flex items-center gap-1 text-zulu-ochre text-sm font-semibold group-hover:gap-2 transition-all">
+                  <div className="mt-5 flex items-center gap-1 text-zulu-ochre-text text-sm font-semibold group-hover:gap-2 transition-all">
                     Learn more <ChevronRight size={15} />
                   </div>
                 </Link>

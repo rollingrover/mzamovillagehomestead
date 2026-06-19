@@ -19,7 +19,7 @@ export default function Gallery() {
     <div style={{ backgroundColor: '#e4ba78' }}>
       <section className="bg-zulu-brown text-white py-20 text-center">
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}>
-          <span className="text-zulu-ochre text-sm font-semibold tracking-widest uppercase">Photos</span>
+          <span className="text-zulu-ochre-light text-sm font-semibold tracking-widest uppercase">Photos</span>
           <h1 className="text-5xl md:text-6xl font-bold mt-3 text-white">{t('gallery.pageTitle')}</h1>
         </motion.div>
       </section>

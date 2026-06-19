@@ -7,6 +7,9 @@ import logo from "../assets/logo-horizontal.png";
 const LANGUAGES = [
   { code: "en", label: "English",    flag: "🇿🇦" },
   { code: "zu", label: "isiZulu",    flag: "🇿🇦" },
+  { code: "de", label: "Deutsch",    flag: "🇩🇪" },
+  { code: "fr", label: "Français",   flag: "🇫🇷" },
+  { code: "nl", label: "Nederlands", flag: "🇳🇱" },
   { code: "zh", label: "中文",       flag: "🇨🇳" },
   { code: "ru", label: "Русский",    flag: "🇷🇺" },
   { code: "hi", label: "हिन्दी",    flag: "🇮🇳" },
@@ -70,9 +73,9 @@ export default function Header() {
             <Link
               key={i}
               to={link.path}
-              className={`text-zulu-cream hover:text-zulu-ochre transition-colors pb-1 border-b-2 ${
+              className={`text-zulu-cream hover:text-zulu-ochre-light transition-colors pb-1 border-b-2 ${
                 location.pathname === link.path
-                  ? "border-zulu-ochre text-zulu-ochre"
+                  ? "border-zulu-ochre-light text-zulu-ochre-light"
                   : "border-transparent"
               }`}
             >
@@ -84,7 +87,7 @@ export default function Header() {
           <div className="relative ml-2" ref={dropRef}>
             <button
               onClick={() => setLangOpen(!langOpen)}
-              className="flex items-center gap-1.5 px-3 py-1.5 border border-zulu-cream/30 rounded-full text-zulu-cream hover:border-zulu-ochre hover:text-zulu-ochre transition text-sm"
+              className="flex items-center gap-1.5 px-3 py-1.5 border border-zulu-cream/30 rounded-full text-zulu-cream hover:border-zulu-ochre-light hover:text-zulu-ochre-light transition text-sm"
             >
               <Globe size={13} />
               <span>{currentLang.flag} {currentLang.label}</span>
@@ -92,7 +95,7 @@ export default function Header() {
             </button>
 
             {langOpen && (
-              <div className="absolute right-0 mt-2 w-44 bg-white rounded-2xl shadow-warm-lg border border-gray-100 overflow-hidden z-50 py-1">
+              <div className="absolute right-0 mt-2 w-44 max-h-80 overflow-y-auto bg-white rounded-2xl shadow-warm-lg border border-gray-100 z-50 py-1">
                 {LANGUAGES.map(lang => (
                   <button
                     key={lang.code}
@@ -115,7 +118,7 @@ export default function Header() {
         {/* Mobile toggle */}
         <button
           onClick={() => setMobileOpen(!mobileOpen)}
-          className="lg:hidden p-2 text-zulu-cream hover:text-zulu-ochre transition min-w-[44px] min-h-[44px] flex items-center justify-center"
+          className="lg:hidden p-2 text-zulu-cream hover:text-zulu-ochre-light transition min-w-[44px] min-h-[44px] flex items-center justify-center"
           aria-label="Toggle menu"
         >
           {mobileOpen ? <X size={26} /> : <Menu size={26} />}
@@ -131,7 +134,7 @@ export default function Header() {
                 key={i}
                 to={link.path}
                 className={`flex items-center min-h-[44px] px-4 rounded-xl text-sm font-medium text-zulu-cream hover:bg-white/10 transition ${
-                  location.pathname === link.path ? "text-zulu-ochre bg-white/10" : ""
+                  location.pathname === link.path ? "text-zulu-ochre-light bg-white/10" : ""
                 }`}
               >
                 {link.label}

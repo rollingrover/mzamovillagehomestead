@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "Accueil", "ourStory": "Notre Histoire", "experiences": "Expériences",
+    "gallery": "Galerie", "events": "Événements", "shop": "Boutique", "contact": "Contact / Réserver"
+  },
+  "home": {
+    "heroTitlePart1": "Sawubona.", "heroTitlePart2": "Bienvenue à Mzamo Village",
+    "heroSubtitle": "Un kraal zoulou vivant – vivez l'héritage, l'unité et la joie",
+    "bookButton": "Réservez votre visite", "exploreButton": "Découvrir les expériences",
+    "introTitle": "Pas un musée — un foyer.",
+    "introText": "Entrez dans notre kraal traditionnel. Apprenez le perlage avec gogo, dansez avec les guerriers, écoutez des histoires autour du feu et goûtez l'authentique hospitalité zouloue.",
+    "featuredTitle": "Expériences en vedette",
+    "featured": {
+      "culturalTour": {
+        "title": "Visites culturelles isiZulu",
+        "desc": "Vivez l'authentique héritage zoulou à travers le perlage, la danse, la fabrication de lances et la cuisine traditionnelle — le tout en un seul voyage immersif.",
+        "items": {
+          "beadwork": "Perlage avec Gogo",
+          "dance": "Danse et musique zouloues",
+          "spear": "Fabrication de lance et bouclier",
+          "cooking": "Expérience de cuisine traditionnelle"
+        },
+        "cta": "Réservez votre visite culturelle"
+      },
+      "ceremonies": { "title": "Cérémonies traditionnelles et mariages", "desc": "Célébrez l'amour et la vie avec des rituels, de la musique et de la danse zoulous authentiques." },
+      "workshops": { "title": "Ateliers scolaires et communauté", "desc": "Programmes éducatifs culturels interactifs pour écoles et groupes." },
+      "accommodation": { "title": "Hébergement traditionnel en hutte isiZulu", "desc": "Passez la nuit dans un authentique foyer zoulou et réveillez-vous à la vie du village." }
+    }
+  },
+  "ourStory": {
+    "heroTitle": "Notre Histoire", "heroSubtitle": "Un voyage ancré dans l'héritage isiZulu, la communauté et le rythme.",
+    "myStoryTitle": "Mon Histoire",
+    "myStoryP1": "Je ne prétends pas être un homme parfait, mais je m'efforce de vivre avec de bonnes valeurs et une bonne éthique. Je m'appelle Mzamo, et je suis un fier citoyen de la région d'Engonyameni à Hluhluwe, sous le chef Mdletshe.",
+    "myStoryP2": "J'ai créé mon village parce que j'aime ma culture et que je veux préserver nos traditions pour les générations futures. Ce qui a commencé comme une passion est devenu une initiative communautaire que les gens apprécient et soutiennent. Aujourd'hui, c'est devenu une entreprise, mais au fond, cela reste un moyen d'aider ma communauté et de garder notre héritage vivant.",
+    "thankYou": "Quand je dis 'Merci', je veux dire siyabonga — la gratitude du cœur.",
+    "livingKraalTitle": "Un Kraal Vivant",
+    "livingKraalP": "Mzamo Village Homestead n'est pas un musée — c'est un kraal zoulou vivant et vibrant. Ici, les traditions ne sont pas exposées derrière une vitre mais partagées à travers l'expérience. Du perlage et de la danse aux histoires racontées autour du feu, chaque moment est une invitation à la vie authentique isiZulu.",
+    "missionTitle": "Notre Mission", "missionP": "Nous visons à préserver et célébrer l'héritage zoulou en ouvrant notre foyer aux visiteurs du monde entier. Notre mission est de favoriser l'unité, la joie et la compréhension à travers l'échange culturel.",
+    "communityTitle": "Communauté et Héritage", "communityP": "Chaque expérience à Mzamo Village est menée par des membres de la communauté — anciens, guerriers et artisans — garantissant que l'héritage est transmis de manière authentique et respectueuse."
+  },
+  "experiences": {
+    "pageTitle": "Nos Expériences",
+    "tour": {
+      "title": "La Visite Culturelle isiZulu",
+      "desc": "Un seul voyage unifié dans la vie zouloue authentique — quatre activités pratiques tissées en une seule expérience culturelle immersive à Mzamo Village.",
+      "activities": {
+        "workshops": { "title": "Ateliers scolaires", "desc": "Éducation culturelle interactive pour groupes scolaires et apprenants." },
+        "homesteadStay": { "title": "Séjour au foyer", "desc": "Passez du temps au sein du village dans le cadre de la vie quotidienne du foyer." },
+        "hutStay": { "title": "Séjour en hutte traditionnelle isiZulu", "desc": "Passez la nuit dans une authentique hutte zouloue traditionnelle." },
+        "ceremonies": { "title": "Cérémonies traditionnelles", "desc": "Participez à de véritables cérémonies et rituels culturels zoulous." }
+      },
+      "cta": "Réserver la visite culturelle"
+    },
+    "craftsmanship": {
+      "title": "Fait à la main par notre communauté",
+      "desc": "Chaque curiosité, perle et sculpture de notre boutique est fabriquée à la main par Mzamo et les habitants de Mzamo Village — un artisanat authentique qui soutient directement notre communauté."
+    },
+    "cards": {
+      "beadwork": { "title": "Perlage avec Gogo", "desc": "Apprenez les motifs de perles zoulous traditionnels et créez votre propre bracelet." },
+      "dance": { "title": "Danse et musique zouloues", "desc": "Rejoignez les guerriers pour une danse traditionnelle énergique." },
+      "spear": { "title": "Fabrication de lance et bouclier", "desc": "Découvrez les arts guerriers et les symboles de la force." },
+      "cooking": { "title": "Cuisine traditionnelle", "desc": "Cuisinez des recettes zouloues authentiques sur feu ouvert avec notre communauté." },
+      "accommodation": { "title": "Hébergement en hutte", "desc": "Dormez dans une hutte isiZulu traditionnelle et réveillez-vous aux sons du village." }
+    }
+  },
+  "gallery": { "pageTitle": "Galerie", "imageAlt": "Image Mzamo {{index}}" },
+  "events": {
+    "pageTitle": "Événements et Cérémonies",
+    "intro": "Mariages traditionnels, ateliers scolaires, soirées de contes et plus encore. Contactez-nous pour réserver votre événement privé.",
+    "cards": {
+      "weddings": { "title": "Mariages traditionnels", "desc": "Célébrez l'amour dans le style zoulou authentique avec musique, danse et rituels." },
+      "workshops": { "title": "Ateliers scolaires", "desc": "Leçons culturelles interactives pour les étudiants — perlage, danse et contes." },
+      "storytelling": { "title": "Soirées de contes", "desc": "Rassemblez-vous autour du feu pour entendre des contes ancestraux transmis de génération en génération." },
+      "ceremonies": { "title": "Cérémonies privées", "desc": "Réservez des événements exclusifs adaptés à votre groupe ou occasion." }
+    }
+  },
+  "shop": {
+    "pageTitle": "Boutique", "intro": "Artisanat et tenues zoulous authentiques — fabriqués à la main avec héritage.", "addToCart": "Ajouter au panier",
+    "products": {
+      "necklace": { "title": "Collier de perles", "price": "R400" },
+      "smlshield": { "title": "Bouclier zoulou", "price": "R450" },
+      "buff": { "title": "Sculpture de buffle", "price": "R350" },
+      "rhino": { "title": "Sculpture de rhinocéros", "price": "R350" },
+      "croc": { "title": "Sculpture de crocodile", "price": "R200" },
+      "medshield": { "title": "Bouclier zoulou moyen", "price": "R550" },
+      "gwalagwala": { "title": "Sculpture d'oiseau (Touraco)", "price": "R150" },
+      "servingtray": { "title": "Plateau de service", "price": "R600" }
+    }
+  },
+  "contact": {
+    "pageTitle": "Contactez-nous", "intro": "Contactez-nous pour réserver votre expérience, poser des questions ou planifier un événement privé.",
+    "formComingSoon": "Le formulaire de contact arrive bientôt. Pour l'instant, veuillez nous contacter via WhatsApp ou téléphone.",
+    "contactTitle": "Contactez-nous directement",
+    "address": "📍 Hluhluwe, KwaZulu-Natal",
+    "whatsapp": "💬 WhatsApp : +27 66 584 5674",
+    "note": "🌍 Vivez un authentique héritage isiZulu avec nous."
+  },
+  "footer": {
+    "title": "Mzamo Village Homestead", "tagline": "Expériences isiZulu authentiques à Hluhluwe, KwaZulu-Natal.",
+    "quickLinks": "Liens rapides", "contact": "Contact",
+    "copyRight": "© {{year}} Mzamo Village Homestead. Tous droits réservés."
+  }
+}

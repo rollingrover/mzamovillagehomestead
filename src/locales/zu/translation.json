@@ -1,26 +1,19 @@
 {
   "nav": {
-    "home": "Ikhaya",
-    "ourStory": "Indaba Yethu",
-    "experiences": "Okuhlangenwe Nakho",
-    "gallery": "Igalari",
-    "events": "Imicimbi",
-    "shop": "Isitolo",
-    "contact": "Xhumana / Bhuka"
+    "home": "Ikhaya", "ourStory": "Indaba Yethu", "experiences": "Okuhlangenwe Nakho",
+    "gallery": "Igalari", "events": "Imicimbi", "shop": "Isitolo", "contact": "Xhumana / Bhuka"
   },
   "home": {
-    "heroTitlePart1": "Sawubona.",
-    "heroTitlePart2": "Siyakwamukela eMzamo Village",
+    "heroTitlePart1": "Sawubona.", "heroTitlePart2": "Siyakwamukela eMzamo Village",
     "heroSubtitle": "I-kraal yaseZulu ephilayo – zama ifa, ubunye kanye nenjabulo",
-    "bookButton": "Bhuka Uhambo Lwakho",
-    "exploreButton": "Hlola Okuhlangenwe Nakho",
+    "bookButton": "Bhuka Uhambo Lwakho", "exploreButton": "Hlola Okuhlangenwe Nakho",
     "introTitle": "Akusilo imiuziyamu — ikhaya.",
     "introText": "Ngena e-kraal lethu. Funda ukushona amachwe negogo, jika namabutho, lalela izindaba eduze komlilo, unamaselo okwamukela kwesintu samaZulu.",
     "featuredTitle": "Okuhlangenwe Nakho Okukhethiwe",
     "featured": {
       "culturalTour": {
-        "title": "Amahambо Amasiko AmaZulu",
-        "desc": "Hlangana nomlando wamaSiko amaZulu ngokushona amachwe, ukujika, ukwenza izikhali, nokupheka kwesintu — konke kunohambо olulodwa olujulile.",
+        "title": "Amahambo Amasiko AmaZulu",
+        "desc": "Hlangana nomlando wamaSiko amaZulu ngokushona amachwe, ukujika, ukwenza izikhali, nokupheka kwesintu — konke kunohambo olulodwa olujulile.",
         "items": {
           "beadwork": "Ukushona Amachwe noGogo",
           "dance": "Ingoma Kanye Nomculo",
@@ -29,36 +22,39 @@
         },
         "cta": "Bhuka Uhambo Lwakho Lwamasiko"
       },
-      "ceremonies": {
-        "title": "Imicimbi Yesikhathi Nemishado",
-        "desc": "Gcinwa uthando nokuphila ngezinkambiso zesiZulu, umculo, nokujika."
-      },
-      "workshops": {
-        "title": "Amaklasi Ezikole Nomphakathi",
-        "desc": "Izifundo zamasiko ezithakazelisayo zazikoleni nanamaqembu."
-      },
-      "accommodation": {
-        "title": "Iindlu Zesintu ZesiZulu",
-        "desc": "Lala ebusuku endlini yesintu yamaZulu uvuke uphila impilo yomphakathi."
-      }
+      "ceremonies": { "title": "Imicimbi Yesikhathi Nemishado", "desc": "Gcinwa uthando nokuphila ngezinkambiso zesiZulu, umculo, nokujika." },
+      "workshops": { "title": "Amaklasi Ezikole Nomphakathi", "desc": "Izifundo zamasiko ezithakazelisayo zazikoleni nanamaqembu." },
+      "accommodation": { "title": "Iindlu Zesintu ZesiZulu", "desc": "Lala ebusuku endlini yesintu yamaZulu uvuke uphila impilo yomphakathi." }
     }
   },
   "ourStory": {
-    "heroTitle": "Indaba Yethu",
-    "heroSubtitle": "Uhambo olugxilwe esikhundleni sesiZulu, umphakathi, kanye nonqangi.",
+    "heroTitle": "Indaba Yethu", "heroSubtitle": "Uhambo olugxilwe esikhundleni sesiZulu, umphakathi, kanye nonqangi.",
     "myStoryTitle": "Indaba Yami",
     "myStoryP1": "Angikwazi ukuthi ngiyindoda ephelele, kodwa ngizama ukuphila ngezimilo ezinhle. Igama lami ngu-Mzamo, futhi ngiyisakhamuzi esikhuthele sendawo yase-Engonyameni eHluhluwe, ngaphansi kweNkosi uMdletshe.",
-    "myStoryP2": "Ngidale isigodi sami ngoba ngithanda amasiko ami futhi ngifuna ukugcina izikhomba zethu zesizukulwane esizayo. Okwaqala njengomfutho kukhule kwaba yinhlangano yomphakathi abantu abayazisa futhi beyisekele.",
+    "myStoryP2": "Ngidale isigodi sami ngoba ngithanda amasiko ami futhi ngifuna ukugcina izikhomba zethu zesizukulwane esizayo. Okwaqala njengomfutho kukhule kwaba yinhlangano yomphakathi abantu abayazisa futhi beyisekele. Namuhla isiba ibhizinisi, kodwa ngaphakathi kuhlala kuyindlela yokusiza umphakathi wami nokugcina ifa lethu liphila.",
     "thankYou": "Uma ngithi 'Ngiyabonga', ngisho siyabonga — ukubonga okuvela enhliziyweni.",
     "livingKraalTitle": "I-Kraal Ephilayo",
     "livingKraalP": "I-Mzamo Village Homestead akusilo imiuziyamu — i-kraal yamaZulu ephilayo. Lapha, amasiko awaboniswa ngeglasi kodwa ayabelwana ngokuhlangenwe nakho. Kusukela ekushoneni amachwe nasekujikeni kuya ezindabeni ezilandiswa ngomlilo, isikhathi ngasinye sinxusa ukungena empilweni yangempela yesiZulu.",
-    "missionTitle": "Inhloso Yethu",
-    "missionP": "Sihlose ukugcina nokugubha ifa lamaZulu ngokuvula ikhaya lethu izivakashi emhlabeni wonke. Inhloso yethu ukukhuthaza ubunye, injabulo, nokuzwana ngokushintshanisa amasiko.",
-    "communityTitle": "Umphakathi Nefa",
-    "communityP": "Yonke into ehlangenwe nayo e-Mzamo Village iholwa amalungu omphakathi — amadlozi, amabutho, nezingcweti — iqinisekisa ukuthi ifa liyenziwa ngeqiniso nokuhlonipha."
+    "missionTitle": "Inhloso Yethu", "missionP": "Sihlose ukugcina nokugubha ifa lamaZulu ngokuvula ikhaya lethu izivakashi emhlabeni wonke. Inhloso yethu ukukhuthaza ubunye, injabulo, nokuzwana ngokushintshanisa amasiko.",
+    "communityTitle": "Umphakathi Nefa", "communityP": "Yonke into ehlangenwe nayo e-Mzamo Village iholwa amalungu omphakathi — amadlozi, amabutho, nezingcweti — iqinisekisa ukuthi ifa liyenziwa ngeqiniso nokuhlonipha."
   },
   "experiences": {
     "pageTitle": "Okuhlangenwe Nakho Kwethu",
+    "tour": {
+      "title": "Uhambo Lwamasiko AmaZulu",
+      "desc": "Uhambo olulodwa olumanyene olungena empilweni yangempela yamaZulu — imisebenzi emine yokuzenzela exatshanisiwe yaba uhambo olulodwa olujulile lwamasiko e-Mzamo Village.",
+      "activities": {
+        "workshops": { "title": "Amaklasi Ezikole", "desc": "Imfundo yamasiko ethakazelisayo yamaqembu ezikole nabafundi." },
+        "homesteadStay": { "title": "Ukuhlala Ekhaya", "desc": "Chitha isikhathi uhlala nesigodi njengengxenye yempilo yansuku zonke ekhaya." },
+        "hutStay": { "title": "Ukulala Endlini Yesintu YesiZulu", "desc": "Lala ebusuku endlini yesintu yesiZulu yangempela." },
+        "ceremonies": { "title": "Izinqubo Zesikhathi", "desc": "Hlanganyela ezinqubweni zamasiko amaZulu zangempela." }
+      },
+      "cta": "Bhuka Uhambo Lwamasiko"
+    },
+    "craftsmanship": {
+      "title": "Kwenziwe Ngezandla Umphakathi Wethu",
+      "desc": "Yonke into yobuciko, ichwe, nokubaziwe esitolo sethu kwenziwa ngezandla nguMzamo nezakhamuzi zaseMzamo Village — ubuciko bangempela obusekela umphakathi wethu ngokuqondile."
+    },
     "cards": {
       "beadwork": { "title": "Ukushona Amachwe noGogo", "desc": "Funda izinhlelo zamaZulu zamachwe wenza isibopho sakho." },
       "dance": { "title": "Ingoma Kanye Nomculo", "desc": "Joyina amabutho ngokujika kwesintu okunamandla." },
@@ -79,19 +75,20 @@
     }
   },
   "shop": {
-    "pageTitle": "Isitolo",
-    "intro": "Izinto zesintu zamaZulu nezingubo — ezenziwa ngesandla nefa.",
-    "addToCart": "Faka Ekalatini",
+    "pageTitle": "Isitolo", "intro": "Izinto zesintu zamaZulu nezingubo — ezenziwa ngesandla nefa.", "addToCart": "Faka Ekalatini",
     "products": {
-      "necklace": { "title": "Umgexo Wamachwe", "price": "R250" },
-      "shield": { "title": "Ihawu LamaZulu", "price": "R800" },
-      "basket": { "title": "Ubhasikidi Owenziwe Ngesandla", "price": "R300" },
-      "attire": { "title": "Isigqoko Sesikhathi", "price": "R1200" }
+      "necklace": { "title": "Umgexo Wamachwe", "price": "R400" },
+      "smlshield": { "title": "Ihawu LamaZulu", "price": "R450" },
+      "buff": { "title": "Ukubaziwe Kwenyathi", "price": "R350" },
+      "rhino": { "title": "Ukubaziwe Kobhejane", "price": "R350" },
+      "croc": { "title": "Ukubaziwe Kwengwenya", "price": "R200" },
+      "medshield": { "title": "Ihawu Elimaphakathi LamaZulu", "price": "R550" },
+      "gwalagwala": { "title": "Ukubaziwe Kwenyoni (uGwalagwala)", "price": "R150" },
+      "servingtray": { "title": "Itreyi Yokuphakela", "price": "R600" }
     }
   },
   "contact": {
-    "pageTitle": "Xhumana Nathi",
-    "intro": "Xhumana nathi ukubhuka, ukubuza imibuzo, noma ukuhlela umcimbi owodwa.",
+    "pageTitle": "Xhumana Nathi", "intro": "Xhumana nathi ukubhuka, ukubuza imibuzo, noma ukuhlela umcimbi owodwa.",
     "formComingSoon": "Ifomu lokuxhumana lizofika maduze. Ngalesi sikhathi, sicela uye kuWhatsApp noma ucingo.",
     "contactTitle": "Sithinte Ngqo",
     "address": "📍 Hluhluwe, KwaZulu-Natal",
@@ -99,10 +96,8 @@
     "note": "🌍 Hlangana nomlando wangempela wesiZulu nathi."
   },
   "footer": {
-    "title": "I-Mzamo Village Homestead",
-    "tagline": "Okuhlangenwe nangempela nokwesiZulu eHluhluwe, KwaZulu-Natal.",
-    "quickLinks": "Izixhumanisi Ezisheshayo",
-    "contact": "Xhumana",
+    "title": "I-Mzamo Village Homestead", "tagline": "Okuhlangenwe nangempela nokwesiZulu eHluhluwe, KwaZulu-Natal.",
+    "quickLinks": "Izixhumanisi Ezisheshayo", "contact": "Xhumana",
     "copyRight": "© {{year}} I-Mzamo Village Homestead. Wonke amalungelo agciniwe."
   }
 }
