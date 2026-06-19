@@ -77,7 +77,7 @@
   "shop": {
     "pageTitle": "Winkel", "intro": "Authentiek Zoeloe-vakmanschap en kleding — met de hand gemaakt met erfgoed.", "addToCart": "In winkelwagen",
     "products": {
-      "necklace": { "title": "Kralenketting", "price": "R400" },
+      "necklace": { "title": "Kralenketting", "price": "R280" },
       "smlshield": { "title": "Zoeloe schild", "price": "R450" },
       "buff": { "title": "Buffel houtsnijwerk", "price": "R350" },
       "rhino": { "title": "Neushoorn houtsnijwerk", "price": "R350" },
