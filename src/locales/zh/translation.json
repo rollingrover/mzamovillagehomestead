@@ -74,7 +74,7 @@
   "shop": {
     "pageTitle": "商店", "intro": "正宗祖鲁工艺品和服饰 — 蕴含文化遗产的手工制品。", "addToCart": "加入购物车",
     "products": {
-      "necklace": { "title": "珠饰项链", "price": "R400" },
+      "necklace": { "title": "珠饰项链", "price": "R280" },
       "smlshield": { "title": "祖鲁盾（小）", "price": "R450" },
       "buff": { "title": "水牛雕刻", "price": "R350" },
       "rhino": { "title": "犀牛雕刻", "price": "R350" },
