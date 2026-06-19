@@ -77,7 +77,7 @@
   "shop": {
     "pageTitle": "Shop", "intro": "Authentisches Zulu-Kunsthandwerk und Kleidung — handgefertigt mit Erbe.", "addToCart": "In den Warenkorb",
     "products": {
-      "necklace": { "title": "Perlenkette", "price": "R400" },
+      "necklace": { "title": "Perlenkette", "price": "R280" },
       "smlshield": { "title": "Zulu-Schild", "price": "R450" },
       "buff": { "title": "Büffel-Schnitzerei", "price": "R350" },
       "rhino": { "title": "Nashorn-Schnitzerei", "price": "R350" },
