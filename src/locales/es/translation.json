@@ -74,7 +74,7 @@
   "shop": {
     "pageTitle": "Tienda", "intro": "Artesanías y vestimenta zulú auténticas — hechas a mano con herencia.", "addToCart": "Añadir al Carrito",
     "products": {
-      "necklace": { "title": "Collar de Cuentas", "price": "R400" },
+      "necklace": { "title": "Collar de Cuentas", "price": "R280" },
       "smlshield": { "title": "Escudo Zulú (Pequeño)", "price": "R450" },
       "buff": { "title": "Talla de Búfalo", "price": "R350" },
       "rhino": { "title": "Talla de Rinoceronte", "price": "R350" },

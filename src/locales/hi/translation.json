@@ -74,7 +74,7 @@
   "shop": {
     "pageTitle": "दुकान", "intro": "असली ज़ुलू शिल्प और पोशाक — विरासत के साथ हाथ से बने।", "addToCart": "कार्ट में जोड़ें",
     "products": {
-      "necklace": { "title": "मनके हार", "price": "R400" },
+      "necklace": { "title": "मनके हार", "price": "R280" },
       "smlshield": { "title": "ज़ुलू ढाल (छोटी)", "price": "R450" },
       "buff": { "title": "भैंस की नक्काशी", "price": "R350" },
       "rhino": { "title": "गैंडे की नक्काशी", "price": "R350" },

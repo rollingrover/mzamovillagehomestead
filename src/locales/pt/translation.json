@@ -74,7 +74,7 @@
   "shop": {
     "pageTitle": "Loja", "intro": "Artesanato e trajes zulus autênticos — feitos à mão com herança.", "addToCart": "Adicionar ao Carrinho",
     "products": {
-      "necklace": { "title": "Colar de Contas", "price": "R400" },
+      "necklace": { "title": "Colar de Contas", "price": "R280" },
       "smlshield": { "title": "Escudo Zulu (Pequeno)", "price": "R450" },
       "buff": { "title": "Entalhe de Búfalo", "price": "R350" },
       "rhino": { "title": "Entalhe de Rinoceronte", "price": "R350" },

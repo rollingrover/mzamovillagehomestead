@@ -77,7 +77,7 @@
   "shop": {
     "pageTitle": "Boutique", "intro": "Artisanat et tenues zoulous authentiques — fabriqués à la main avec héritage.", "addToCart": "Ajouter au panier",
     "products": {
-      "necklace": { "title": "Collier de perles", "price": "R400" },
+      "necklace": { "title": "Collier de perles", "price": "R280" },
       "smlshield": { "title": "Bouclier zoulou", "price": "R450" },
       "buff": { "title": "Sculpture de buffle", "price": "R350" },
       "rhino": { "title": "Sculpture de rhinocéros", "price": "R350" },
