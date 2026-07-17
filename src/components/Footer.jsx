@@ -6,13 +6,13 @@ export default function Footer() {
   const { t } = useTranslation();
 
   const navLinks = [
-    { label: t('nav.home'),        path: "/" },
-    { label: t('nav.ourStory'),    path: "/our-story" },
+    { label: t('nav.home'), path: "/" },
+    { label: t('nav.ourStory'), path: "/our-story" },
     { label: t('nav.experiences'), path: "/experiences" },
-    { label: t('nav.gallery'),     path: "/gallery" },
-    { label: t('nav.events'),      path: "/events" },
-    { label: t('nav.shop'),        path: "/shop" },
-    { label: t('nav.contact'),     path: "/contact" },
+    { label: t('nav.gallery'), path: "/gallery" },
+    { label: t('nav.events'), path: "/events" },
+    { label: t('nav.shop'), path: "/shop" },
+    { label: t('nav.contact'), path: "/contact" },
   ];
 
   const partners = [
@@ -81,7 +81,7 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Partners Column - NEW */}
+        {/* Partners Column */}
         <div>
           <h2 className="text-base font-bold mb-2 text-white">Partners</h2>
           <div className="w-10 h-0.5 bg-zulu-ochre mb-4 rounded" />
@@ -102,9 +102,20 @@ export default function Footer() {
         </div>
       </div>
 
-      {/* Bottom bar */}
-      <div className="border-t border-white/10 text-center py-5 text-xs text-white/35">
-        {t('footer.copyRight', { year: new Date().getFullYear() })}
+      {/* Bottom bar - UPDATED with WebDesign credit */}
+      <div className="border-t border-white/10 text-center py-5 text-xs text-white/35 space-y-1">
+        <p>{t('footer.copyRight', { year: new Date().getFullYear() })}</p>
+        <p>
+          WebDesign by{" "}
+          <a
+            href="https://www.rollingrover.co.za"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-white/50 hover:text-zulu-ochre transition"
+          >
+            RollingRover Productions
+          </a>
+        </p>
       </div>
     </footer>
   );
