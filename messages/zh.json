@@ -1,0 +1,279 @@
+{
+  "nav": {
+    "home": "首页",
+    "ourStory": "我们的故事",
+    "experiences": "体验活动",
+    "gallery": "图片库",
+    "events": "活动与仪式",
+    "shop": "商店",
+    "contact": "联系 / 预订",
+    "faq": "常见问题"
+  },
+  "home": {
+    "heroTitlePart1": "萨乌博纳。",
+    "heroTitlePart2": "欢迎来到姆扎莫村",
+    "heroSubtitle": "活生生的祖鲁部落 — 体验传承、团结与欢乐",
+    "bookButton": "预订游览",
+    "exploreButton": "探索体验",
+    "introTitle": "不是博物馆 — 而是家园。",
+    "introText": "走进我们的传统部落围场。与老奶奶学习珠绣，与战士共舞，在篝火旁聆听故事，品味真正的祖鲁热情款待。",
+    "featuredTitle": "精选体验",
+    "featured": {
+      "culturalTour": {
+        "title": "伊斯祖鲁文化之旅",
+        "desc": "通过珠绣、舞蹈、制矛和传统烹饪，沉浸式体验正宗祖鲁文化遗产。",
+        "items": {
+          "beadwork": "与老奶奶学珠绣",
+          "dance": "祖鲁舞蹈与音乐",
+          "spear": "矛与盾的制作",
+          "cooking": "传统烹饪体验"
+        },
+        "cta": "预订文化之旅"
+      },
+      "ceremonies": {
+        "title": "传统仪式与婚礼",
+        "desc": "以正宗祖鲁仪式、音乐和舞蹈庆祝爱情与生命。"
+      },
+      "workshops": {
+        "title": "学校工作坊与社区",
+        "desc": "面向学校和团体的互动文化教育课程。"
+      },
+      "accommodation": {
+        "title": "传统伊斯祖鲁茅屋住宿",
+        "desc": "在正宗祖鲁庄园过夜，醒来感受村落生活。"
+      }
+    }
+  },
+  "ourStory": {
+    "heroTitle": "我们的故事",
+    "heroSubtitle": "根植于祖鲁语遗产、社区与节奏的旅程。",
+    "myStoryTitle": "我的故事",
+    "myStoryP1": "我不敢自称完美，但我努力以良好的道德和伦理生活。我叫姆扎莫，是恩贡亚梅尼地区的骄傲公民，属于赫卢赫卢韦的姆德莱切酋长管辖区。",
+    "myStoryP2": "我建立自己的村庄，是因为我热爱自己的文化，希望为后代保存我们的传统。这一激情已发展成为一项社区倡议，受到人们的赞赏和支持。如今它已成为一项事业，但其核心仍是帮助社区、传承文化。",
+    "thankYou": "当我说谢谢时，我的意思是 siyabonga — 发自内心的感激。",
+    "livingKraalTitle": "活生生的部落围场",
+    "livingKraalP": "Mzamo's Cultural Village & Homestead不是博物馆 — 它是一个充满活力的祖鲁部落围场。从珠绣和舞蹈到篝火旁的讲故事，每一刻都是走进真实祖鲁生活的邀请。",
+    "missionTitle": "我们的使命",
+    "missionP": "我们致力于通过向世界各地的游客开放我们的家园，来保护和弘扬祖鲁文化遗产。",
+    "communityTitle": "社区与遗产",
+    "communityP": "姆扎莫村的每一次体验都由社区成员主导 — 长者、战士和工匠。"
+  },
+  "experiences": {
+    "pageTitle": "我们的体验",
+    "tour": {
+      "title": "伊斯祖鲁文化之旅",
+      "desc": "通过珠绣、舞蹈、制矛和传统烹饪，沉浸式体验正宗祖鲁文化遗产。",
+      "items": {
+        "beadwork": "与老奶奶学珠绣",
+        "dance": "祖鲁舞蹈与音乐",
+        "spear": "矛与盾的制作",
+        "cooking": "传统烹饪体验"
+      },
+      "cta": "预订文化之旅"
+    },
+    "craftsmanship": {
+      "title": "由我们社区手工制作",
+      "desc": "商店里的每一件工艺品、珠饰和雕刻，都是姆扎莫和姆扎莫村村民亲手制作——正宗的手艺直接惠及我们的社区。"
+    },
+    "cards": {
+      "beadwork": {
+        "title": "与老奶奶学珠绣",
+        "desc": "学习传统祖鲁珠饰图案，制作属于自己的手链。"
+      },
+      "dance": {
+        "title": "祖鲁舞蹈与音乐",
+        "desc": "与战士们一起参与充满活力的传统舞蹈。"
+      },
+      "spear": {
+        "title": "矛与盾的制作",
+        "desc": "发现战士艺术和力量的象征。"
+      },
+      "cooking": {
+        "title": "传统烹饪",
+        "desc": "在篝火旁与社区成员一起烹制正宗祖鲁食谱。"
+      },
+      "accommodation": {
+        "title": "茅屋住宿",
+        "desc": "在传统伊斯祖鲁茅屋过夜体验。"
+      }
+    },
+    "extra": {
+      "title": "额外体验项目",
+      "subtitle": "可单独选择的附加项目——不包含在主要的isiZulu文化之旅内。",
+      "badge": "可选附加项目",
+      "items": {
+        "workshops": {
+          "title": "学校工作坊",
+          "desc": "面向学校团体和学习者的互动文化教育。"
+        },
+        "homesteadStay": {
+          "title": "庄园住宿体验",
+          "desc": "作为日常庄园生活的一部分，与村落共度时光。"
+        },
+        "hutStay": {
+          "title": "伊斯祖鲁传统茅屋住宿",
+          "desc": "在正宗的传统祖鲁茅屋中过夜。"
+        },
+        "ceremonies": {
+          "title": "传统仪式",
+          "desc": "参与真正的祖鲁文化仪式和礼俗。"
+        }
+      }
+    }
+  },
+  "gallery": {
+    "pageTitle": "图片库",
+    "imageAlt": "姆扎莫图片 {index}"
+  },
+  "events": {
+    "pageTitle": "活动与仪式",
+    "intro": "传统婚礼、学校工作坊、讲故事之夜等等。联系我们预订您的私人活动。",
+    "cards": {
+      "weddings": {
+        "title": "传统婚礼",
+        "desc": "以真正的祖鲁风格庆祝爱情，包括音乐、舞蹈和仪式。"
+      },
+      "workshops": {
+        "title": "学校工作坊",
+        "desc": "面向学生的互动文化课程 — 珠绣、舞蹈和讲故事。"
+      },
+      "storytelling": {
+        "title": "讲故事之夜",
+        "desc": "围坐篝火旁，聆听代代相传的古老故事。"
+      },
+      "ceremonies": {
+        "title": "私人仪式",
+        "desc": "预订专属于您的团体或场合的专属活动。"
+      }
+    }
+  },
+  "shop": {
+    "pageTitle": "商店",
+    "intro": "正宗祖鲁工艺品和服饰 — 蕴含文化遗产的手工制品。",
+    "addToCart": "加入购物车",
+    "products": {
+      "necklace": {
+        "title": "珠饰项链",
+        "price": "R280"
+      },
+      "smlshield": {
+        "title": "祖鲁盾（小）",
+        "price": "R450"
+      },
+      "buff": {
+        "title": "水牛雕刻",
+        "price": "R350"
+      },
+      "rhino": {
+        "title": "犀牛雕刻",
+        "price": "R350"
+      },
+      "croc": {
+        "title": "鳄鱼雕刻",
+        "price": "R200"
+      },
+      "medshield": {
+        "title": "祖鲁盾（中）",
+        "price": "R550"
+      },
+      "gwalagwala": {
+        "title": "鸟类雕刻（蕉鹃）",
+        "price": "R150"
+      },
+      "servingtray": {
+        "title": "托盘",
+        "price": "R600"
+      }
+    }
+  },
+  "contact": {
+    "pageTitle": "联系我们",
+    "intro": "联系我们预订体验、提问或策划私人活动。",
+    "formComingSoon": "联系表单即将推出。现在请通过WhatsApp或电话与我们联系。",
+    "contactTitle": "直接联系我们",
+    "address": "📍 祖鲁纳塔尔省赫卢赫卢韦",
+    "whatsapp": "💬 WhatsApp: +27 66 584 5674",
+    "note": "🌍 与我们一起体验真正的祖鲁文化遗产。",
+    "sendMessageTitle": "给我们发消息",
+    "namePlaceholder": "您的姓名",
+    "emailPlaceholder": "您的电子邮箱",
+    "messagePlaceholder": "您的留言",
+    "sendButton": "发送留言"
+  },
+  "footer": {
+    "title": "Mzamo's Cultural Village & Homestead",
+    "tagline": "在赫卢赫卢韦体验真正的祖鲁文化。",
+    "quickLinks": "快速链接",
+    "contact": "联系方式",
+    "copyRight": "© {year} Mzamo's Cultural Village & Homestead。版权所有。"
+  },
+  "seo": {
+    "siteTitleDefault": "Mzamo's Cultural Village & Homestead — 胡卢威祖鲁文化体验",
+    "siteDescriptionDefault": "在南非夸祖鲁-纳塔尔省胡卢威（临近胡卢威-伊姆福洛齐保护区）的Mzamo's Cultural Village & Homestead，体验正宗祖鲁文化之旅、串珠工艺、舞蹈、传统烹饪与传统小屋住宿。",
+    "ourStory": {
+      "title": "关于我们 — 胡卢威祖鲁文化村",
+      "description": "认识姆扎莫（Mzamo），了解Mzamo's Cultural Village & Homestead背后的故事——位于夸祖鲁-纳塔尔省胡卢威、扎根于社区与传统的鲜活祖鲁克拉尔。"
+    },
+    "experiences": {
+      "title": "体验项目 — 祖鲁文化、故事与手工艺",
+      "description": "探索Mzamo's Cultural Village & Homestead的祖鲁文化体验：学校工作坊、庄园住宿、传统小屋过夜以及传统仪式，地点位于夸祖鲁-纳塔尔省胡卢威。"
+    },
+    "gallery": {
+      "title": "照片画廊",
+      "description": "浏览Mzamo's Cultural Village & Homestead的照片——克拉尔、传统小屋以及我们位于夸祖鲁-纳塔尔省胡卢威的祖鲁文化村日常生活。"
+    },
+    "events": {
+      "title": "活动与仪式",
+      "description": "在夸祖鲁-纳塔尔省胡卢威的Mzamo's Cultural Village & Homestead庆祝婚礼、参加工作坊、故事之夜以及传统祖鲁仪式。"
+    },
+    "shop": {
+      "title": "商店 — 手工祖鲁工艺品与串珠",
+      "description": "浏览由夸祖鲁-纳塔尔省胡卢威Mzamo Village社区手工制作的祖鲁串珠、木雕工艺品及传统作品。"
+    },
+    "faq": {
+      "title": "常见问题",
+      "description": "关于参观、预订及入住Mzamo's Cultural Village & Homestead（夸祖鲁-纳塔尔省胡卢威的祖鲁文化村）的常见问题解答。"
+    },
+    "contact": {
+      "title": "预订／咨询",
+      "description": "预订或咨询前往夸祖鲁-纳塔尔省胡卢威Mzamo's Cultural Village & Homestead的行程。可通过WhatsApp、电话及电子邮件联系文化之旅与团体预订。"
+    }
+  },
+  "faq": {
+    "kicker": "常见问题",
+    "pageTitle": "常见问题",
+    "closingPrefix": "还有其他问题吗？",
+    "closingLink": "联系我们",
+    "closingSuffix": "我们将帮助您规划行程。",
+    "items": [
+      {
+        "q": "isiZulu文化之旅包含哪些内容？",
+        "a": "主要的isiZulu文化之旅包含四项活动：与祖母（gogo）一起制作串珠、祖鲁舞蹈与音乐、长矛与盾牌制作，以及传统烹饪体验——全部融入一次沉浸式旅程中。"
+      },
+      {
+        "q": "学校工作坊、庄园住宿、小屋过夜或仪式是否包含在旅程中？",
+        "a": "不包含——这些是在主要isiZulu文化之旅之外单独提供的体验，并非其组成部分。每项均可单独预订，也可与主旅程一起预订。请在咨询时告知您感兴趣的项目，以便我们为您安排合适的行程。"
+      },
+      {
+        "q": "Mzamo's Cultural Village & Homestead位于哪里？",
+        "a": "我们位于南非夸祖鲁-纳塔尔省胡卢威，靠近胡卢威-伊姆福洛齐纪念门区域。"
+      },
+      {
+        "q": "如何预订参观或团体旅程？",
+        "a": "最快的方式是通过WhatsApp联系+27 66 584 5674。预订直接处理，无平台费用——只需告诉我们您想要主要文化之旅、某项额外体验，还是两者结合。"
+      },
+      {
+        "q": "我们可以在传统小屋过夜吗？",
+        "a": "可以——isiZulu传统小屋过夜可作为独立体验，与主旅程一起安排。"
+      },
+      {
+        "q": "你们接待学校团体和工作坊吗？",
+        "a": "是的，学校工作坊作为独立体验提供，通过实践方式向学生介绍祖鲁文化、手工艺与传统。"
+      },
+      {
+        "q": "商店里的串珠和木雕作品是手工制作的吗？",
+        "a": "是的——每件作品均由Mzamo Village社区使用世代相传的传统技艺手工制作。"
+      }
+    ]
+  }
+}

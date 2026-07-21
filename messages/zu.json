@@ -1,0 +1,279 @@
+{
+  "nav": {
+    "home": "Ikhaya",
+    "ourStory": "Indaba Yethu",
+    "experiences": "Okuhlangenwe Nakho",
+    "gallery": "Igalari",
+    "events": "Imicimbi",
+    "shop": "Isitolo",
+    "contact": "Xhumana / Bhuka",
+    "faq": "Imibuzo"
+  },
+  "home": {
+    "heroTitlePart1": "Sawubona.",
+    "heroTitlePart2": "Siyakwamukela eMzamo Village",
+    "heroSubtitle": "I-kraal yaseZulu ephilayo – zama ifa, ubunye kanye nenjabulo",
+    "bookButton": "Bhuka Uhambo Lwakho",
+    "exploreButton": "Hlola Okuhlangenwe Nakho",
+    "introTitle": "Akusilo imiuziyamu — ikhaya.",
+    "introText": "Ngena e-kraal lethu. Funda ukushona amachwe negogo, jika namabutho, lalela izindaba eduze komlilo, unamaselo okwamukela kwesintu samaZulu.",
+    "featuredTitle": "Okuhlangenwe Nakho Okukhethiwe",
+    "featured": {
+      "culturalTour": {
+        "title": "Amahambo Amasiko AmaZulu",
+        "desc": "Hlangana nomlando wamaSiko amaZulu ngokushona amachwe, ukujika, ukwenza izikhali, nokupheka kwesintu — konke kunohambo olulodwa olujulile.",
+        "items": {
+          "beadwork": "Ukushona Amachwe noGogo",
+          "dance": "Ingoma Kanye Nomculo",
+          "spear": "Ukwenza Umkhonto Neshoba",
+          "cooking": "Ukupheka Kwesintu"
+        },
+        "cta": "Bhuka Uhambo Lwakho Lwamasiko"
+      },
+      "ceremonies": {
+        "title": "Imicimbi Yesikhathi Nemishado",
+        "desc": "Gcinwa uthando nokuphila ngezinkambiso zesiZulu, umculo, nokujika."
+      },
+      "workshops": {
+        "title": "Amaklasi Ezikole Nomphakathi",
+        "desc": "Izifundo zamasiko ezithakazelisayo zazikoleni nanamaqembu."
+      },
+      "accommodation": {
+        "title": "Iindlu Zesintu ZesiZulu",
+        "desc": "Lala ebusuku endlini yesintu yamaZulu uvuke uphila impilo yomphakathi."
+      }
+    }
+  },
+  "ourStory": {
+    "heroTitle": "Indaba Yethu",
+    "heroSubtitle": "Uhambo olugxilwe esikhundleni sesiZulu, umphakathi, kanye nonqangi.",
+    "myStoryTitle": "Indaba Yami",
+    "myStoryP1": "Angikwazi ukuthi ngiyindoda ephelele, kodwa ngizama ukuphila ngezimilo ezinhle. Igama lami ngu-Mzamo, futhi ngiyisakhamuzi esikhuthele sendawo yase-Ngonyamaneni eHluhluwe, ngaphansi kweNkosi uMdletshe.",
+    "myStoryP2": "Ngidale isigodi sami ngoba ngithanda amasiko ami futhi ngifuna ukugcina izikhomba zethu zesizukulwane esizayo. Okwaqala njengomfutho kukhule kwaba yinhlangano yomphakathi abantu abayazisa futhi beyisekele. Namuhla isiba ibhizinisi, kodwa ngaphakathi kuhlala kuyindlela yokusiza umphakathi wami nokugcina ifa lethu liphila.",
+    "thankYou": "Uma ngithi 'Ngiyabonga', ngisho siyabonga — ukubonga okuvela enhliziyweni.",
+    "livingKraalTitle": "I-Kraal Ephilayo",
+    "livingKraalP": "I-Mzamo's Cultural Village & Homestead akusilo imiuziyamu — i-kraal yamaZulu ephilayo. Lapha, amasiko awaboniswa ngeglasi kodwa ayabelwana ngokuhlangenwe nakho. Kusukela ekushoneni amachwe nasekujikeni kuya ezindabeni ezilandiswa ngomlilo, isikhathi ngasinye sinxusa ukungena empilweni yangempela yesiZulu.",
+    "missionTitle": "Inhloso Yethu",
+    "missionP": "Sihlose ukugcina nokugubha ifa lamaZulu ngokuvula ikhaya lethu izivakashi emhlabeni wonke. Inhloso yethu ukukhuthaza ubunye, injabulo, nokuzwana ngokushintshanisa amasiko.",
+    "communityTitle": "Umphakathi Nefa",
+    "communityP": "Yonke into ehlangenwe nayo e-Mzamo Village iholwa amalungu omphakathi — amadlozi, amabutho, nezingcweti — iqinisekisa ukuthi ifa liyenziwa ngeqiniso nokuhlonipha."
+  },
+  "experiences": {
+    "pageTitle": "Okuhlangenwe Nakho Kwethu",
+    "tour": {
+      "title": "Amahambo Amasiko AmaZulu",
+      "desc": "Hlangana nomlando wamaSiko amaZulu ngokushona amachwe, ukujika, ukwenza izikhali, nokupheka kwesintu — konke kunohambo olulodwa olujulile.",
+      "items": {
+        "beadwork": "Ukushona Amachwe noGogo",
+        "dance": "Ingoma Kanye Nomculo",
+        "spear": "Ukwenza Umkhonto Neshoba",
+        "cooking": "Ukupheka Kwesintu"
+      },
+      "cta": "Bhuka Uhambo Lwakho Lwamasiko"
+    },
+    "craftsmanship": {
+      "title": "Kwenziwe Ngezandla Umphakathi Wethu",
+      "desc": "Yonke into yobuciko, ichwe, nokubaziwe esitolo sethu kwenziwa ngezandla nguMzamo nezakhamuzi zaseMzamo Village — ubuciko bangempela obusekela umphakathi wethu ngokuqondile."
+    },
+    "cards": {
+      "beadwork": {
+        "title": "Ukushona Amachwe noGogo",
+        "desc": "Funda izinhlelo zamaZulu zamachwe wenza isibopho sakho."
+      },
+      "dance": {
+        "title": "Ingoma Kanye Nomculo",
+        "desc": "Joyina amabutho ngokujika kwesintu okunamandla."
+      },
+      "spear": {
+        "title": "Ukwenza Umkhonto Neshoba",
+        "desc": "Thola ubuciko bamabutho nezimpawu zamandla."
+      },
+      "cooking": {
+        "title": "Ukupheka Kwesintu",
+        "desc": "Pheka izindlela zesiZulu ngomlilo nevulandlela yomphakathi."
+      },
+      "accommodation": {
+        "title": "Ukulala Endlini Yesintu",
+        "desc": "Lala ebusuku endlini yesintu yamaZulu."
+      }
+    },
+    "extra": {
+      "title": "Okunye Okokuzijabulisa",
+      "subtitle": "Okuzongezelela okukhethekile okutholakala ngokwehlukene — akufakiwe ohambweni oluyinhloko lwamasiko isiZulu.",
+      "badge": "Okukhethekile Okungezelelwe",
+      "items": {
+        "workshops": {
+          "title": "Amaklasi Ezikole",
+          "desc": "Imfundo yamasiko ethakazelisayo yamaqembu ezikole nabafundi."
+        },
+        "homesteadStay": {
+          "title": "Ukuhlala Ekhaya",
+          "desc": "Chitha isikhathi uhlala nesigodi njengengxenye yempilo yansuku zonke ekhaya."
+        },
+        "hutStay": {
+          "title": "Ukulala Endlini Yesintu YesiZulu",
+          "desc": "Lala ebusuku endlini yesintu yesiZulu yangempela."
+        },
+        "ceremonies": {
+          "title": "Izinqubo Zesikhathi",
+          "desc": "Hlanganyela ezinqubweni zamasiko amaZulu zangempela."
+        }
+      }
+    }
+  },
+  "gallery": {
+    "pageTitle": "Igalari",
+    "imageAlt": "Isithombe sakwa-Mzamo {index}"
+  },
+  "events": {
+    "pageTitle": "Imicimbi Nezinqubo",
+    "intro": "Imishado yesikhathi, amaklasi ezikole, izindaba zobusuku, nokunye. Xhumana nathi ukubhuka umcimbi wakho ozimele.",
+    "cards": {
+      "weddings": {
+        "title": "Imishado Yesikhathi",
+        "desc": "Gcinwa uthando ngendlela yesintu samaZulu ngomculo, ukujika, nezinkambiso."
+      },
+      "workshops": {
+        "title": "Amaklasi Ezikole",
+        "desc": "Izifundo zamasiko ezithakazelisayo zamafundi — amachwe, ukujika, nezindaba."
+      },
+      "storytelling": {
+        "title": "Izindaba Zobusuku",
+        "desc": "Buthelanani eduze komlilo uzwe izindaba zamandulo ezidale isizukulwane ngesizukulwane."
+      },
+      "ceremonies": {
+        "title": "Izinqubo Ezizimele",
+        "desc": "Bhuka imicimbi ekhethekile ehambisana neqembu lenu noma umcimbi."
+      }
+    }
+  },
+  "shop": {
+    "pageTitle": "Isitolo",
+    "intro": "Izinto zesintu zamaZulu nezingubo — ezenziwa ngesandla nefa.",
+    "addToCart": "Faka Ekalatini",
+    "products": {
+      "necklace": {
+        "title": "Umgexo Wamachwe",
+        "price": "R280"
+      },
+      "smlshield": {
+        "title": "Ihawu LamaZulu",
+        "price": "R450"
+      },
+      "buff": {
+        "title": "Ukubaziwe Kwenyathi",
+        "price": "R350"
+      },
+      "rhino": {
+        "title": "Ukubaziwe Kobhejane",
+        "price": "R350"
+      },
+      "croc": {
+        "title": "Ukubaziwe Kwengwenya",
+        "price": "R200"
+      },
+      "medshield": {
+        "title": "Ihawu Elimaphakathi LamaZulu",
+        "price": "R550"
+      },
+      "gwalagwala": {
+        "title": "Ukubaziwe Kwenyoni (uGwalagwala)",
+        "price": "R150"
+      },
+      "servingtray": {
+        "title": "Itreyi Yokuphakela",
+        "price": "R600"
+      }
+    }
+  },
+  "contact": {
+    "pageTitle": "Xhumana Nathi",
+    "intro": "Xhumana nathi ukubhuka, ukubuza imibuzo, noma ukuhlela umcimbi owodwa.",
+    "formComingSoon": "Ifomu lokuxhumana lizofika maduze. Ngalesi sikhathi, sicela uye kuWhatsApp noma ucingo.",
+    "contactTitle": "Sithinte Ngqo",
+    "address": "📍 Hluhluwe, KwaZulu-Natal",
+    "whatsapp": "💬 WhatsApp: +27 66 584 5674",
+    "note": "🌍 Hlangana nomlando wangempela wesiZulu nathi.",
+    "sendMessageTitle": "Sithumele Umyalezo",
+    "namePlaceholder": "Igama Lakho",
+    "emailPlaceholder": "I-imeyili Yakho",
+    "messagePlaceholder": "Umyalezo Wakho",
+    "sendButton": "Thumela Umyalezo"
+  },
+  "footer": {
+    "title": "Mzamo's Cultural Village & Homestead",
+    "tagline": "Okuhlangenwe nangempela nokwesiZulu eHluhluwe, KwaZulu-Natal.",
+    "quickLinks": "Izixhumanisi Ezisheshayo",
+    "contact": "Xhumana",
+    "copyRight": "© {year} I-Mzamo's Cultural Village & Homestead. Wonke amalungelo agciniwe."
+  },
+  "seo": {
+    "siteTitleDefault": "Mzamo's Cultural Village & Homestead — Okokuzijabulisa Kwesiko LamaZulu eHluhluwe",
+    "siteDescriptionDefault": "Ohambo lwamasiko amaZulu ngempela, ukwenziwa kwezintebe, umdanso, ukupheka kwendabuko kanye nokuhlala ezindlini zesintu e-Mzamo's Cultural Village & Homestead eHluhluwe, KwaZulu-Natal, eduze kweHluhluwe-iMfolozi.",
+    "ourStory": {
+      "title": "Mayelana Nathi — Umuzi Wamasiko AmaZulu eHluhluwe",
+      "description": "Hlangana noMzamo uthole indaba engemuva kwe-Mzamo's Cultural Village & Homestead — ikhaya lamaZulu eliphilayo eHluhluwe, KwaZulu-Natal, elisekelwe emphakathini nasesikweni."
+    },
+    "experiences": {
+      "title": "Okokuzijabulisa — Isiko LamaZulu, Ukulandisa Nobuciko",
+      "description": "Thola okokuzijabulisa kwamasiko amaZulu e-Mzamo's Cultural Village & Homestead: izifundo zezikole, ukuhlala ekhaya, ukulala endlini yesintu kanye namasiko endabuko eHluhluwe, KwaZulu-Natal."
+    },
+    "gallery": {
+      "title": "Izithombe",
+      "description": "Buka izithombe ze-Mzamo's Cultural Village & Homestead — ikhaya, izindlu zesintu kanye nempilo yansuku zonke yomuzi wamasiko amaZulu eHluhluwe, KwaZulu-Natal."
+    },
+    "events": {
+      "title": "Imicimbi Namasiko",
+      "description": "Gubha imishado, izifundo, ubusuku bokulandisa kanye namasiko endabuko amaZulu e-Mzamo's Cultural Village & Homestead eHluhluwe, KwaZulu-Natal."
+    },
+    "shop": {
+      "title": "Isitolo — Ubuciko Nezintebe ZamaZulu Ezenziwe Ngesandla",
+      "description": "Buka izintebe zamaZulu ezenziwe ngesandla, ubuciko bokubaza kanye nezinto zendabuko ezenziwa umphakathi we-Mzamo Village eHluhluwe, KwaZulu-Natal."
+    },
+    "faq": {
+      "title": "Imibuzo Ejwayelekile",
+      "description": "Izimpendulo zemibuzo ejwayelekile mayelana nokuvakashela, ukubhuka, nokuhlala e-Mzamo's Cultural Village & Homestead, umuzi wamasiko amaZulu eHluhluwe, KwaZulu-Natal."
+    },
+    "contact": {
+      "title": "Bhuka / Buza",
+      "description": "Bhuka noma ubuze mayelana nokuvakashela i-Mzamo's Cultural Village & Homestead eHluhluwe, KwaZulu-Natal. Xhumana nge-WhatsApp, ucingo, ne-imeyili ohambweni lwamasiko nasekubhukeni kwamaqembu."
+    }
+  },
+  "faq": {
+    "kicker": "Imibuzo Ejwayelekile",
+    "pageTitle": "Imibuzo Ejwayelekile",
+    "closingPrefix": "Usenombuzo?",
+    "closingLink": "Xhumana Nathi",
+    "closingSuffix": "sizokusiza uhlele ukuvakasha kwakho.",
+    "items": [
+      {
+        "q": "Yini efakiwe kuma-isiZulu Cultural Tours?",
+        "a": "I-isiZulu Cultural Tours eyinhloko ifaka imisebenzi emine: ukwenziwa kwezintebe noGogo, umdanso nomculo wamaZulu, ukubaza imikhonto namahawu, kanye nokupheka kwendabuko — konke kuhambo olulodwa olujulile."
+      },
+      {
+        "q": "Izifundo zezikole, ukuhlala ekhaya, ukulala endlini yesintu, noma amasiko kuyafakwa ohambweni?",
+        "a": "Cha — lokhu kungamathuba ahlukene anikezwa ngaphandle kwe-isiZulu Cultural Tours eyinhloko, akuyona ingxenye yayo. Ngamunye ungabhukwa wodwa noma kanye nohambo oluyinhloko. Sicela usitshele lokho okuthakazelela lapho ubuza ukuze sikwazi ukuhlelela ukuvakasha okufanele."
+      },
+      {
+        "q": "I-Mzamo's Cultural Village & Homestead itholakala kuphi?",
+        "a": "Sisendaweni yaseHluhluwe, KwaZulu-Natal, eNingizimu Afrika, eduze nendawo yaseHluhluwe-iMfolozi Memorial Gate."
+      },
+      {
+        "q": "Ngibhuka kanjani ukuvakasha noma uhambo lweqembu?",
+        "a": "Indlela esheshayo ukusebenzisa i-WhatsApp ku-+27 66 584 5674. Ukubhukwa kwenziwa ngokuqondile ngaphandle kwezimali zenkundla — sitshele nje ukuthi ufuna uhambo oluyinhloko lwamasiko, elinye lamathuba angeziwe, noma inhlanganisela yakho konke."
+      },
+      {
+        "q": "Singalala ebusuku endlini yesintu?",
+        "a": "Yebo — ukulala endlini yesintu yesiZulu kutholakala njengethuba elihlukile kanye nohambo oluyinhloko."
+      },
+      {
+        "q": "Niyawemukela amaqembu ezikole nezifundo?",
+        "a": "Yebo, izifundo zezikole zinikezwa njengethuba elihlukile, ezethula abafundi esikweni lamaZulu, ubuciko, kanye namasiko ngendlela yokwenza ngokoqobo."
+      },
+      {
+        "q": "Izintebe nokubaziwe okusesitolo kwenziwe ngesandla?",
+        "a": "Yebo — yonke into yenziwa ngesandla umphakathi we-Mzamo Village usebenzisa amasu endabuko adluliselwa isizukulwane ngesizukulwane."
+      }
+    ]
+  }
+}

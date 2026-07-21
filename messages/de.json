@@ -1,0 +1,279 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "ourStory": "Unsere Geschichte",
+    "experiences": "Erlebnisse",
+    "gallery": "Galerie",
+    "events": "Veranstaltungen",
+    "shop": "Shop",
+    "contact": "Kontakt / Buchen",
+    "faq": "FAQ"
+  },
+  "home": {
+    "heroTitlePart1": "Sawubona.",
+    "heroTitlePart2": "Willkommen in Mzamo Village",
+    "heroSubtitle": "Ein lebendiges Zulu-Kraal – erlebe Erbe, Einheit und Freude",
+    "bookButton": "Tour buchen",
+    "exploreButton": "Erlebnisse entdecken",
+    "introTitle": "Kein Museum — ein Zuhause.",
+    "introText": "Betritt unser traditionelles Kraal. Lerne Perlenstickerei bei Gogo, tanze mit Kriegern, höre Geschichten am Lagerfeuer und genieße echte Zulu-Gastfreundschaft.",
+    "featuredTitle": "Ausgewählte Erlebnisse",
+    "featured": {
+      "culturalTour": {
+        "title": "isiZulu Kulturtouren",
+        "desc": "Erlebe authentisches Zulu-Erbe durch Perlenstickerei, Tanz, Speerschmieden und traditionelles Kochen — alles in einer einzigen, intensiven Reise.",
+        "items": {
+          "beadwork": "Perlenstickerei mit Gogo",
+          "dance": "Zulu-Tanz und Musik",
+          "spear": "Speer- und Schildherstellung",
+          "cooking": "Traditionelles Kocherlebnis"
+        },
+        "cta": "Kulturtour buchen"
+      },
+      "ceremonies": {
+        "title": "Traditionelle Zeremonien & Hochzeiten",
+        "desc": "Feiere Liebe und Leben mit authentischen Zulu-Ritualen, Musik und Tanz."
+      },
+      "workshops": {
+        "title": "Schul-Workshops & Gemeinschaft",
+        "desc": "Interaktive kulturelle Bildungsprogramme für Schulen und Gruppen."
+      },
+      "accommodation": {
+        "title": "Traditionelle isiZulu Hüttenunterkunft",
+        "desc": "Übernachte in einem authentischen Zulu-Gehöft und erwache zum Dorfleben."
+      }
+    }
+  },
+  "ourStory": {
+    "heroTitle": "Unsere Geschichte",
+    "heroSubtitle": "Eine Reise verwurzelt im isiZulu-Erbe, der Gemeinschaft und dem Rhythmus.",
+    "myStoryTitle": "Meine Geschichte",
+    "myStoryP1": "Ich kann nicht behaupten, ein perfekter Mensch zu sein, aber ich bemühe mich, mit guten Werten und Ethik zu leben. Mein Name ist Mzamo, und ich bin stolzer Bürger des Engonyameni-Gebiets in Hluhluwe, unter Chief Mdletshe.",
+    "myStoryP2": "Ich habe mein Dorf gegründet, weil ich meine Kultur liebe und unsere Traditionen für zukünftige Generationen bewahren möchte. Was als Leidenschaft begann, ist zu einer Gemeinschaftsinitiative gewachsen, die Menschen schätzen und unterstützen. Heute ist es ein Geschäft geworden, doch im Kern bleibt es ein Weg, meiner Gemeinschaft zu helfen und unser Erbe lebendig zu halten.",
+    "thankYou": "Wenn ich 'Danke' sage, meine ich siyabonga — Dankbarkeit von Herzen.",
+    "livingKraalTitle": "Ein lebendiges Kraal",
+    "livingKraalP": "Mzamo's Cultural Village & Homestead ist kein Museum — es ist ein lebendiges, atmendes Zulu-Kraal. Hier werden Traditionen nicht hinter Glas ausgestellt, sondern durch Erfahrung geteilt. Von Perlenstickerei und Tanz bis zum Geschichtenerzählen am Feuer ist jeder Moment eine Einladung in authentisches isiZulu-Leben.",
+    "missionTitle": "Unsere Mission",
+    "missionP": "Wir möchten das Zulu-Erbe bewahren und feiern, indem wir unser Gehöft Besuchern aus aller Welt öffnen. Unsere Mission ist es, Einheit, Freude und Verständnis durch kulturellen Austausch zu fördern.",
+    "communityTitle": "Gemeinschaft & Erbe",
+    "communityP": "Jedes Erlebnis in Mzamo Village wird von Mitgliedern der Gemeinschaft geleitet — Älteste, Krieger und Handwerker — und stellt sicher, dass das Erbe authentisch und respektvoll weitergegeben wird."
+  },
+  "experiences": {
+    "pageTitle": "Unsere Erlebnisse",
+    "tour": {
+      "title": "isiZulu Kulturtouren",
+      "desc": "Erlebe authentisches Zulu-Erbe durch Perlenstickerei, Tanz, Speerschmieden und traditionelles Kochen — alles in einer einzigen, intensiven Reise.",
+      "items": {
+        "beadwork": "Perlenstickerei mit Gogo",
+        "dance": "Zulu-Tanz und Musik",
+        "spear": "Speer- und Schildherstellung",
+        "cooking": "Traditionelles Kocherlebnis"
+      },
+      "cta": "Kulturtour buchen"
+    },
+    "craftsmanship": {
+      "title": "Handgefertigt von unserer Gemeinschaft",
+      "desc": "Jedes Kunsthandwerk, jede Perle und jede Schnitzerei in unserem Shop wird von Mzamo und den Bewohnern von Mzamo Village von Hand gefertigt — authentisches Handwerk, das unsere Gemeinschaft direkt unterstützt."
+    },
+    "cards": {
+      "beadwork": {
+        "title": "Perlenstickerei mit Gogo",
+        "desc": "Lerne traditionelle Zulu-Perlenmuster und gestalte dein eigenes Armband."
+      },
+      "dance": {
+        "title": "Zulu-Tanz und Musik",
+        "desc": "Schließe dich den Kriegern für energiegeladenen traditionellen Tanz an."
+      },
+      "spear": {
+        "title": "Speer- und Schildherstellung",
+        "desc": "Entdecke die Kunst der Krieger und Symbole der Stärke."
+      },
+      "cooking": {
+        "title": "Traditionelles Kochen",
+        "desc": "Koche authentische Zulu-Rezepte am offenen Feuer mit unserer Gemeinschaft."
+      },
+      "accommodation": {
+        "title": "Hüttenunterkunft",
+        "desc": "Schlafe in einer traditionellen isiZulu-Hütte und erwache zu Dorfklängen."
+      }
+    },
+    "extra": {
+      "title": "Zusätzliche Erlebnisse",
+      "subtitle": "Optionale Zusatzangebote, separat buchbar — nicht im primären isiZulu-Kulturtour enthalten.",
+      "badge": "Optionales Extra",
+      "items": {
+        "workshops": {
+          "title": "Schul-Workshops",
+          "desc": "Interaktive kulturelle Bildung für Schulgruppen und Lernende."
+        },
+        "homesteadStay": {
+          "title": "Aufenthalt im Gehöft",
+          "desc": "Verbringe Zeit im Dorf als Teil des täglichen Gehöftlebens."
+        },
+        "hutStay": {
+          "title": "isiZulu Traditionelle Hüttenübernachtung",
+          "desc": "Übernachte in einer authentischen traditionellen Zulu-Hütte."
+        },
+        "ceremonies": {
+          "title": "Traditionelle Zeremonien",
+          "desc": "Nimm an echten Zulu-Kulturzeremonien und Ritualen teil."
+        }
+      }
+    }
+  },
+  "gallery": {
+    "pageTitle": "Galerie",
+    "imageAlt": "Mzamo Bild {index}"
+  },
+  "events": {
+    "pageTitle": "Veranstaltungen & Zeremonien",
+    "intro": "Traditionelle Hochzeiten, Schul-Workshops, Erzählnächte und mehr. Kontaktiere uns, um deine private Veranstaltung zu buchen.",
+    "cards": {
+      "weddings": {
+        "title": "Traditionelle Hochzeiten",
+        "desc": "Feiere die Liebe im authentischen Zulu-Stil mit Musik, Tanz und Ritualen."
+      },
+      "workshops": {
+        "title": "Schul-Workshops",
+        "desc": "Interaktive kulturelle Lektionen für Schüler — Perlenstickerei, Tanz und Geschichtenerzählen."
+      },
+      "storytelling": {
+        "title": "Erzählnächte",
+        "desc": "Versammelt euch am Feuer für uralte Geschichten, die über Generationen weitergegeben wurden."
+      },
+      "ceremonies": {
+        "title": "Private Zeremonien",
+        "desc": "Buche exklusive Veranstaltungen, die auf deine Gruppe oder deinen Anlass zugeschnitten sind."
+      }
+    }
+  },
+  "shop": {
+    "pageTitle": "Shop",
+    "intro": "Authentisches Zulu-Kunsthandwerk und Kleidung — handgefertigt mit Erbe.",
+    "addToCart": "In den Warenkorb",
+    "products": {
+      "necklace": {
+        "title": "Perlenkette",
+        "price": "R280"
+      },
+      "smlshield": {
+        "title": "Zulu-Schild",
+        "price": "R450"
+      },
+      "buff": {
+        "title": "Büffel-Schnitzerei",
+        "price": "R350"
+      },
+      "rhino": {
+        "title": "Nashorn-Schnitzerei",
+        "price": "R350"
+      },
+      "croc": {
+        "title": "Krokodil-Schnitzerei",
+        "price": "R200"
+      },
+      "medshield": {
+        "title": "Mittlerer Zulu-Schild",
+        "price": "R550"
+      },
+      "gwalagwala": {
+        "title": "Vogel(Loerie)-Schnitzerei",
+        "price": "R150"
+      },
+      "servingtray": {
+        "title": "Servierplatte",
+        "price": "R600"
+      }
+    }
+  },
+  "contact": {
+    "pageTitle": "Kontaktiere uns",
+    "intro": "Melde dich, um dein Erlebnis zu buchen, Fragen zu stellen oder eine private Veranstaltung zu planen.",
+    "formComingSoon": "Kontaktformular kommt bald. Bitte kontaktiere uns vorerst über WhatsApp oder Telefon.",
+    "contactTitle": "Erreiche uns direkt",
+    "address": "📍 Hluhluwe, KwaZulu-Natal",
+    "whatsapp": "💬 WhatsApp: +27 66 584 5674",
+    "note": "🌍 Erlebe echtes isiZulu-Erbe mit uns.",
+    "sendMessageTitle": "Senden Sie uns eine Nachricht",
+    "namePlaceholder": "Ihr Name",
+    "emailPlaceholder": "Ihre E-Mail",
+    "messagePlaceholder": "Ihre Nachricht",
+    "sendButton": "Nachricht senden"
+  },
+  "footer": {
+    "title": "Mzamo's Cultural Village & Homestead",
+    "tagline": "Authentische isiZulu-Erlebnisse in Hluhluwe, KwaZulu-Natal.",
+    "quickLinks": "Schnelllinks",
+    "contact": "Kontakt",
+    "copyRight": "© {year} Mzamo's Cultural Village & Homestead. Alle Rechte vorbehalten."
+  },
+  "seo": {
+    "siteTitleDefault": "Mzamo's Cultural Village & Homestead — Zulu-Kulturerlebnis in Hluhluwe",
+    "siteDescriptionDefault": "Authentische Zulu-Kulturtouren, Perlenarbeiten, Tanz, traditionelles Kochen und Hüttenübernachtungen bei Mzamo's Cultural Village & Homestead in Hluhluwe, KwaZulu-Natal, nahe Hluhluwe-iMfolozi.",
+    "ourStory": {
+      "title": "Über uns — Zulu-Kulturdorf in Hluhluwe",
+      "description": "Lernen Sie Mzamo kennen und entdecken Sie die Geschichte hinter Mzamo's Cultural Village & Homestead — einem lebendigen Zulu-Kraal in Hluhluwe, KwaZulu-Natal, verwurzelt in Gemeinschaft und Tradition."
+    },
+    "experiences": {
+      "title": "Erlebnisse — Zulu-Kultur, Geschichten & Handwerk",
+      "description": "Entdecken Sie Zulu-Kulturerlebnisse im Mzamo's Cultural Village & Homestead: Schulworkshops, Aufenthalte im Homestead, traditionelle Hüttenübernachtungen und traditionelle Zeremonien in Hluhluwe, KwaZulu-Natal."
+    },
+    "gallery": {
+      "title": "Fotogalerie",
+      "description": "Entdecken Sie Fotos vom Mzamo's Cultural Village & Homestead — dem Kraal, den traditionellen Hütten und dem Alltag unseres Zulu-Kulturdorfs in Hluhluwe, KwaZulu-Natal."
+    },
+    "events": {
+      "title": "Veranstaltungen & Zeremonien",
+      "description": "Feiern Sie Hochzeiten, Workshops, Erzählabende und traditionelle Zulu-Zeremonien im Mzamo's Cultural Village & Homestead in Hluhluwe, KwaZulu-Natal."
+    },
+    "shop": {
+      "title": "Shop — Handgefertigtes Zulu-Kunsthandwerk & Perlenarbeiten",
+      "description": "Entdecken Sie handgefertigte Zulu-Perlenarbeiten, Holzschnitzereien und traditionelle Stücke der Mzamo-Village-Gemeinschaft in Hluhluwe, KwaZulu-Natal."
+    },
+    "faq": {
+      "title": "FAQ",
+      "description": "Antworten auf häufige Fragen zum Besuch, zur Buchung und zum Aufenthalt im Mzamo's Cultural Village & Homestead, einem Zulu-Kulturdorf in Hluhluwe, KwaZulu-Natal."
+    },
+    "contact": {
+      "title": "Buchen / Anfragen",
+      "description": "Buchen Sie einen Besuch im Mzamo's Cultural Village & Homestead in Hluhluwe, KwaZulu-Natal oder stellen Sie eine Anfrage. WhatsApp-, Telefon- und E-Mail-Kontakt für Kulturtouren und Gruppenbuchungen."
+    }
+  },
+  "faq": {
+    "kicker": "Häufige Fragen",
+    "pageTitle": "Häufig gestellte Fragen",
+    "closingPrefix": "Haben Sie noch eine Frage?",
+    "closingLink": "Kontaktieren Sie uns",
+    "closingSuffix": "und wir helfen Ihnen, Ihren Besuch zu planen.",
+    "items": [
+      {
+        "q": "Was ist in den isiZulu Cultural Tours enthalten?",
+        "a": "Die primäre isiZulu Cultural Tours umfasst vier Aktivitäten: Perlenarbeiten mit Gogo, Zulu-Tanz und -Musik, Speer- und Schildarbeit sowie ein traditionelles Kocherlebnis — alles in einer einzigen, immersiven Reise."
+      },
+      {
+        "q": "Sind Schulworkshops, Homestead-Aufenthalt, Hüttenübernachtung oder Zeremonien im Tour enthalten?",
+        "a": "Nein — dies sind separate Erlebnisse, die zusätzlich zur primären isiZulu Cultural Tours angeboten werden, nicht Teil davon. Jedes kann einzeln oder zusammen mit der Haupttour gebucht werden. Bitte teilen Sie uns bei Ihrer Anfrage mit, woran Sie interessiert sind, damit wir den passenden Besuch zusammenstellen können."
+      },
+      {
+        "q": "Wo befindet sich Mzamo's Cultural Village & Homestead?",
+        "a": "Wir befinden uns in Hluhluwe, KwaZulu-Natal, Südafrika, in der Nähe des Hluhluwe-iMfolozi Memorial Gate."
+      },
+      {
+        "q": "Wie buche ich einen Besuch oder eine Gruppentour?",
+        "a": "Am schnellsten geht es über WhatsApp unter +27 66 584 5674. Buchungen werden direkt und ohne Plattformgebühren abgewickelt — teilen Sie uns einfach mit, ob Sie die primäre Kulturtour, eine der Zusatzerfahrungen oder eine Kombination wünschen."
+      },
+      {
+        "q": "Können wir über Nacht in einer traditionellen Hütte bleiben?",
+        "a": "Ja — der isiZulu Traditional Hut Stay ist als separates Erlebnis zusätzlich zur Haupttour verfügbar."
+      },
+      {
+        "q": "Bieten Sie Schulgruppen und Workshops an?",
+        "a": "Ja, Schulworkshops werden als separates Erlebnis angeboten und führen Schüler praxisnah in die Zulu-Kultur, Handwerkskunst und Traditionen ein."
+      },
+      {
+        "q": "Sind die Perlenarbeiten und Schnitzereien im Shop handgefertigt?",
+        "a": "Ja — jedes Stück wird von der Mzamo-Village-Gemeinschaft mit traditionellen, über Generationen weitergegebenen Techniken von Hand gefertigt."
+      }
+    ]
+  }
+}
