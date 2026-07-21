@@ -6,9 +6,10 @@ const isProd = process.env.VERCEL_ENV === 'production';
 
 const nextConfig = {
   images: {
-    qualities: [75, 80],
+    qualities: [80],
     formats: ['image/avif', 'image/webp'],
   },
+
   async redirects() {
     return [
       {
@@ -19,16 +20,20 @@ const nextConfig = {
       },
     ];
   },
+
   async headers() {
     return [
       {
         source: '/(.*)',
         headers: [
           { key: 'X-Content-Type-Options', value: 'nosniff' },
-          { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
           { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
           { key: 'Permissions-Policy', value: 'camera=(), microphone=(), geolocation=(self)' },
           { key: 'X-Robots-Tag', value: isProd ? 'index, follow' : 'noindex, nofollow' },
+          {
+            key: 'Content-Security-Policy',
+            value: "frame-ancestors https://www.rollingrover.co.za https://rollingrover.co.za;",
+          },
         ],
       },
     ];
